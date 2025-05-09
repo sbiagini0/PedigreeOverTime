@@ -1,5 +1,5 @@
 
-# PedigreeOverTime
+# 🧬 PedigreeOverTime
 
 **PedigreeOverTime** is an R pipeline—purpose-built for **MPI (Missing Person Identification)** and **DVI (Disaster Victim Identification)** workflows—that reads a _.fam_ file and visualizes, in chronological order, how adding specific members typed by **STR** or **SNP** markers to each pedigree improves statistical power in kinship analysis.  
 Leveraging parallel computing, the pipeline runs large EP/IP simulations efficiently. Using a companion spreadsheet of genotyping dates, it produces annotated pedigree diagrams and simulation-based **Exclusion Power** (EP) and **Inclusion Power** (IP) metrics, clearly showing when—and by how much—each new sample boosts identification confidence.
@@ -99,22 +99,19 @@ This timeline drives the step-wise incorporation of samples into each pedigree f
     - The script auto-detects which pedigrees are new or need updating.
     
 4. **Review outputs**
+  - The `output/` folder contains the following subdirectories and files for each _Family Pedigree_:
+ 
+    - **Pedigree plot/**: JPEG images showing the pedigree structure annotated with genotyping dates.  
+    - **Simulation plot/**: JPEG panels depicting EP vs IP and Expected Mismatch vs Log(LR) for each simulation run.  
+    - **EP/** and **IP/**: RData files with raw simulation results for **Exclusion Power** and **Inclusion Power**, respectively.  
+    - **RData peds/**: Saved RData objects of all intermediate pedigree versions.  
+    - **Final Images** (`output/<Pedigree>.jpeg`): Combined side-by-side images of the pedigree plot and simulation results.
 
-## 🧬 A toy MPI example
+## 🖼️ A toy MPI example
 
 The `toy_MPI.fam` file included in this repository is a simplified
 example representing a basic scenario of genetic pedigree.
 This file includes a **Population Frequency Table** from South America with 24 STR markers, with 15 Family Pedigrees to be evaluated.
-
-## 🖼️ Example Output
-
-The `output/` folder contains the following subdirectories and files for each _Family Pedigree_:
-
-- **Pedigree plot/**: JPEG images showing the pedigree structure annotated with genotyping dates.  
-- **Simulation plot/**: JPEG panels depicting EP vs IP and Expected Mismatch vs Log(LR) for each simulation run.  
-- **EP/** and **IP/**: RData files with raw simulation results for **Exclusion Power** and **Inclusion Power**, respectively.  
-- **RData peds/**: Saved RData objects of all intermediate pedigree versions.  
-- **Final JPEGs** (`output/<Pedigree>.jpeg`): Combined side-by-side images of the pedigree plot and simulation results.
 
 ![Example output of pedigree + simulation](docs/example_output.jpeg)
 
