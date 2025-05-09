@@ -1,0 +1,96 @@
+---
+title: "PedigreeOverTime"
+author: "sbiagini0"
+date: 09/05/2025
+---
+
+#setup_packages
+```{r setup_packages, include=FALSE}
+# Automatically install and load all required R packages for the analysis
+load_packages <- function(pkgs) {
+  installed_packages <- pkgs %in% rownames(installed.packages())
+  if (any(!installed_packages)) {
+    install.packages(pkgs[!installed_packages])
+  }
+  invisible(lapply(pkgs, library, character.only = TRUE))
+}
+
+packages <- c("pedtools", "forrel", "furrr", "purrr", "tidyverse", "dplyr", "magick", "grid", "gridExtra", "ggplot2", "readxl", "here")
+load_packages(packages)
+
+```
+
+#import_helpers
+```{r import_helpers, include=FALSE}
+# Create the output directory tree and return a path_info list
+source(here("R", "setup_directories.R"))
+
+# Auto-detect the first .xlsx in data/, clean it, and return the timeline df
+source(here("R", "process_df.R"))
+
+# Auto-detect and read a multi-family .fam file and return a named list of pedigrees
+source(here("R", "read_famfile.R"))
+
+# Drop NULL pedigrees, extract _comp1, and assign famid()
+source(here("R", "process_pedigree.R"))
+
+# Compare current vs. previous member counts and decide what to run
+source(here("R", "pedigrees_to_run.R"))
+
+# Plotting utilities for pedigree diagrams and simulation panels
+source(here("R", "pedigree_plot_utils.R"))
+
+# Simulate, plot, and save outputs over time
+source(here("R", "simulatePedigreeOverTime.R"))
+
+```
+
+#setup_directories
+```{r setup_directories, include=FALSE}
+# Create the required output directories and define path variables for storing results and plots
+path_info <- setup_directories("output")
+
+knitr::opts_knit$set(root.dir = path_info$base)
+setwd(path_info$base)
+
+```
+
+#read_famfile
+```{r read_famfile, include=FALSE}
+# Load .fam file with multiple pedigrees
+data_dir <- "data"
+fam_file <- list.files(path = data_dir, pattern = "\\.fam$", full.names  = TRUE)
+
+mpi <- read_famfile(fam_file)
+
+```
+
+#process_pedigree
+```{r process_pedigree}
+# Extract main pedigree components, check for NULL entries, and assign family IDs.
+mpi <- process_pedigree(mpi) 
+
+```
+
+#process_df
+```{r process_df, include=FALSE}
+# Read the Excel file with member information
+# The dataframe must include columns: Pedigree, Member_id, Typed_date
+df <- process_df("data")
+
+```
+
+#simulatePedigreeOverTime
+```{r simulatePedigreeOverTime}
+# Run the simulation over time for each pedigree in the .fam file
+simulatePedigreeOverTime(
+  df = df,
+  pedigree = mpi,
+  threshold = 10000,
+  nsims = 10000,
+  seed = 2000,
+  ncores = 3,
+  path = path_info
+)
+
+```

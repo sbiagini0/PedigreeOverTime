@@ -1,0 +1,4639 @@
+"Output from Familias, version 3.4"
+"DO NOT EDIT!"
+3.4 (DVI)
+""
+7
+"1"
+#FALSE#
+-1
+#FALSE#
+#TRUE#
+0
+"2"
+#FALSE#
+-1
+#FALSE#
+#FALSE#
+0
+"3"
+#FALSE#
+-1
+#FALSE#
+#TRUE#
+0
+"4"
+#FALSE#
+-1
+#FALSE#
+#FALSE#
+0
+"5"
+#FALSE#
+-1
+#FALSE#
+#TRUE#
+0
+"6"
+#FALSE#
+-1
+#FALSE#
+#FALSE#
+0
+"7"
+#FALSE#
+-1
+#FALSE#
+#FALSE#
+0
+"Known relations"
+0
+0
+0
+2
+0
+"Ped 1"
+0
+0
+6
+0
+4
+1
+4
+2
+5
+3
+5
+4
+6
+5
+6
+1
+"Ped 2"
+0
+0
+2
+0
+4
+2
+3
+#FALSE# (#Databases: 1 ;Theta/Kinship/Fst: 0 )
+24
+#TRUE#
+"popSTR_South_America_DB"
+"CSF1PO"
+0
+0
+0
+0
+8
+0.1
+0.1
+0.0
+0.0
+#FALSE#
+0
+8	(DatabaseSize = 1100 , Dropout probability = 0 , Minor allele frequency = 0 )
+"7"
+0.03796203796
+"8"
+0.03196803197
+"9"
+0.03696303696
+"10"
+0.2387612388
+"11"
+0.2797202797
+"12"
+0.3136863137
+"13"
+0.05194805195
+"14"
+0.008991008991
+"D1S1656"
+0
+0
+0
+0
+17
+0.1
+0.1
+0.0
+0.0
+#FALSE#
+0
+17	(DatabaseSize = 1100 , Dropout probability = 0 , Minor allele frequency = 0 )
+"10"
+0.003003003003
+"11"
+0.05905905906
+"12"
+0.08908908909
+"13"
+0.09009009009
+"14"
+0.1751751752
+"14.3"
+0.01601601602
+"15"
+0.1411411411
+"15.3"
+0.03303303303
+"16"
+0.1341341341
+"16.3"
+0.05905905906
+"17"
+0.04504504505
+"17.1"
+0.001001001001
+"17.3"
+0.1051051051
+"18"
+0.006006006006
+"18.3"
+0.03603603604
+"19"
+0.001001001001
+"19.3"
+0.006006006006
+"D2S441"
+0
+0
+0
+0
+12
+0.1
+0.1
+0.0
+0.0
+#FALSE#
+0
+12	(DatabaseSize = 1100 , Dropout probability = 0 , Minor allele frequency = 0 )
+"9"
+0.00499001996
+"10"
+0.2285429142
+"11"
+0.3193612774
+"11.3"
+0.04491017964
+"12"
+0.1027944112
+"12.3"
+0.000998003992
+"13"
+0.04291417166
+"13.3"
+0.00499001996
+"14"
+0.2225548902
+"14.3"
+0.000998003992
+"15"
+0.02395209581
+"16"
+0.002994011976
+"D2S1338"
+0
+0
+0
+0
+14
+0.1
+0.1
+0.0
+0.0
+#FALSE#
+0
+14	(DatabaseSize = 1100 , Dropout probability = 0 , Minor allele frequency = 0 )
+"13"
+0.001
+"15"
+0.003
+"16"
+0.054
+"17"
+0.171
+"18"
+0.061
+"19"
+0.172
+"20"
+0.093
+"21"
+0.077
+"22"
+0.085
+"23"
+0.118
+"24"
+0.08
+"25"
+0.063
+"26"
+0.018
+"27"
+0.004
+"D3S1358"
+0
+0
+0
+0
+11
+0.1
+0.1
+0.0
+0.0
+#FALSE#
+0
+11	(DatabaseSize = 1100 , Dropout probability = 0 , Minor allele frequency = 0 )
+"9"
+0.001
+"12"
+0.003
+"13"
+0.006
+"14"
+0.085
+"15"
+0.326
+"15.2"
+0.001
+"16"
+0.296
+"17"
+0.187
+"18"
+0.088
+"19"
+0.005
+"20"
+0.002
+"D5S818"
+0
+0
+0
+0
+10
+0.1
+0.1
+0.0
+0.0
+#FALSE#
+0
+10	(DatabaseSize = 1100 , Dropout probability = 0 , Minor allele frequency = 0 )
+"7"
+0.03096903097
+"8"
+0.02697302697
+"9"
+0.03596403596
+"10"
+0.06193806194
+"11"
+0.2957042957
+"12"
+0.3166833167
+"13"
+0.2097902098
+"14"
+0.01598401598
+"15"
+0.000999000999
+"16"
+0.004995004995
+"D7S820"
+0
+0
+0
+0
+12
+0.1
+0.1
+0.0
+0.0
+#FALSE#
+0
+12	(DatabaseSize = 1100 , Dropout probability = 0 , Minor allele frequency = 0 )
+"6.3"
+0.000998003992
+"7"
+0.008982035928
+"8"
+0.1676646707
+"9"
+0.0878243513
+"10"
+0.2984031936
+"10.3"
+0.000998003992
+"11"
+0.244510978
+"12"
+0.1497005988
+"13"
+0.03193612774
+"13.1"
+0.000998003992
+"14"
+0.006986027944
+"15"
+0.000998003992
+"D8S1179"
+0
+0
+0
+0
+10
+0.1
+0.1
+0.0
+0.0
+#FALSE#
+0
+10	(DatabaseSize = 1100 , Dropout probability = 0 , Minor allele frequency = 0 )
+"8"
+0.004
+"9"
+0.005
+"10"
+0.063
+"11"
+0.066
+"12"
+0.114
+"13"
+0.273
+"14"
+0.285
+"15"
+0.143
+"16"
+0.04
+"17"
+0.007
+"D10S1248"
+0
+0
+0
+0
+11
+0.1
+0.1
+0.0
+0.0
+#FALSE#
+0
+11	(DatabaseSize = 1100 , Dropout probability = 0 , Minor allele frequency = 0 )
+"8"
+0.004995004995
+"9"
+0.001998001998
+"10"
+0.004995004995
+"11"
+0.01598401598
+"12"
+0.07892107891
+"13"
+0.2307692308
+"14"
+0.3176823177
+"15"
+0.2097902098
+"16"
+0.1088911089
+"17"
+0.02397602398
+"18"
+0.001998001998
+"D12S391"
+0
+0
+0
+0
+19
+0.1
+0.1
+0.0
+0.0
+#FALSE#
+0
+19	(DatabaseSize = 1100 , Dropout probability = 0 , Minor allele frequency = 0 )
+"13"
+0.001002004008
+"15"
+0.07114228458
+"16"
+0.03907815631
+"17"
+0.1032064128
+"17.1"
+0.001002004008
+"17.3"
+0.006012024048
+"18"
+0.2164328657
+"18.1"
+0.001002004008
+"18.3"
+0.0120240481
+"19"
+0.1663326653
+"19.1"
+0.002004008016
+"19.3"
+0.007014028057
+"20"
+0.1372745491
+"21"
+0.08717434871
+"22"
+0.07214428859
+"23"
+0.05611222445
+"24"
+0.0130260521
+"25"
+0.00501002004
+"26"
+0.003006012024
+"D13S317"
+0
+0
+0
+0
+9
+0.1
+0.1
+0.0
+0.0
+#FALSE#
+0
+9	(DatabaseSize = 1100 , Dropout probability = 0 , Minor allele frequency = 0 )
+"8"
+0.05594405594
+"9"
+0.08891108891
+"10"
+0.06393606394
+"11"
+0.2597402597
+"12"
+0.3446553447
+"13"
+0.1128871129
+"14"
+0.07092907093
+"15"
+0.001998001998
+"16"
+0.000999000999
+"D16S539"
+0
+0
+0
+0
+8
+0.1
+0.1
+0.0
+0.0
+#FALSE#
+0
+8	(DatabaseSize = 1100 , Dropout probability = 0 , Minor allele frequency = 0 )
+"8"
+0.02997002997
+"9"
+0.1858141858
+"10"
+0.1078921079
+"11"
+0.2707292707
+"12"
+0.2367632368
+"13"
+0.1438561439
+"14"
+0.02197802198
+"15"
+0.002997002997
+"D18S51"
+0
+0
+0
+0
+18
+0.1
+0.1
+0.0
+0.0
+#FALSE#
+0
+18	(DatabaseSize = 1100 , Dropout probability = 0 , Minor allele frequency = 0 )
+"10"
+0.006012024046
+"11"
+0.009018036069
+"12"
+0.1082164329
+"13"
+0.09318637272
+"13.2"
+0.004008016031
+"14"
+0.1352705411
+"14.2"
+0.003006012024
+"15"
+0.1503006012
+"15.2"
+0.001002004008
+"16"
+0.1312625251
+"17"
+0.1442885772
+"18"
+0.08416833664
+"19"
+0.06713426852
+"20"
+0.03607214428
+"21"
+0.01903807615
+"21.2"
+0.001002004008
+"22"
+0.006012024046
+"23"
+0.001002004008
+"D19S433"
+0
+0
+0
+0
+16
+0.1
+0.1
+0.0
+0.0
+#FALSE#
+0
+16	(DatabaseSize = 1100 , Dropout probability = 0 , Minor allele frequency = 0 )
+"10"
+0.005982053838
+"11"
+0.03589232303
+"11.2"
+0.002991026919
+"12"
+0.1036889332
+"12.2"
+0.02293120638
+"13"
+0.2542372881
+"13.2"
+0.08175473579
+"14"
+0.2402791625
+"14.2"
+0.04586241276
+"15"
+0.09471585245
+"15.2"
+0.07078763709
+"16"
+0.01595214357
+"16.2"
+0.01395812562
+"17"
+0.001994017946
+"17.2"
+0.004985044865
+"18"
+0.003988035892
+"D21S11"
+0
+0
+0
+0
+20
+0.1
+0.1
+0.0
+0.0
+#FALSE#
+0
+20	(DatabaseSize = 1100 , Dropout probability = 0 , Minor allele frequency = 0 )
+"24.3"
+0.001
+"27"
+0.031
+"28"
+0.205
+"29"
+0.193
+"29.2"
+0.001
+"30"
+0.202
+"30.2"
+0.033
+"31"
+0.066
+"31.2"
+0.073
+"32"
+0.025
+"32.1"
+0.001
+"32.2"
+0.088
+"33"
+0.003
+"33.1"
+0.003
+"33.2"
+0.042
+"34"
+0.006
+"34.2"
+0.004
+"35"
+0.019
+"36"
+0.003
+"37"
+0.001
+"D22S1045"
+0
+0
+0
+0
+11
+0.1
+0.1
+0.0
+0.0
+#FALSE#
+0
+11	(DatabaseSize = 1100 , Dropout probability = 0 , Minor allele frequency = 0 )
+"8"
+0.001
+"10"
+0.038
+"11"
+0.103
+"12"
+0.03
+"13"
+0.003
+"14"
+0.063
+"15"
+0.349
+"16"
+0.266
+"17"
+0.134
+"18"
+0.012
+"19"
+0.001
+"FGA"
+0
+0
+0
+0
+21
+0.1
+0.1
+0.0
+0.0
+#FALSE#
+0
+21	(DatabaseSize = 1100 , Dropout probability = 0 , Minor allele frequency = 0 )
+"18"
+0.006993006993
+"18.2"
+0.006993006993
+"19"
+0.07492507493
+"19.2"
+0.000999000999
+"20"
+0.07892107892
+"20.3"
+0.000999000999
+"21"
+0.1358641359
+"21.2"
+0.000999000999
+"22"
+0.1708291708
+"22.2"
+0.001998001998
+"23"
+0.1358641359
+"24"
+0.1648351648
+"25"
+0.1228771229
+"26"
+0.05094905095
+"27"
+0.02197802198
+"28"
+0.01098901099
+"29"
+0.005994005994
+"30"
+0.001998001998
+"33"
+0.000999000999
+"45.2"
+0.002997002997
+"46.2"
+0.000999000999
+"TH01"
+0
+0
+0
+0
+7
+0.1
+0.1
+0.0
+0.0
+#FALSE#
+0
+7	(DatabaseSize = 1100 , Dropout probability = 0 , Minor allele frequency = 0 )
+"5"
+0.001998001998
+"6"
+0.2257742258
+"7"
+0.3156843157
+"8"
+0.1568431568
+"9"
+0.1488511489
+"9.3"
+0.1398601399
+"10"
+0.01098901099
+"TPOX"
+0
+0
+0
+0
+8
+0.1
+0.1
+0.0
+0.0
+#FALSE#
+0
+8	(DatabaseSize = 1100 , Dropout probability = 0 , Minor allele frequency = 0 )
+"6"
+0.03996003996
+"7"
+0.00999000999
+"8"
+0.4085914086
+"9"
+0.1258741259
+"10"
+0.07292707293
+"11"
+0.2727272727
+"12"
+0.06693306693
+"13"
+0.002997002997
+"vWA"
+0
+0
+0
+0
+10
+0.1
+0.1
+0.0
+0.0
+#FALSE#
+0
+10	(DatabaseSize = 1100 , Dropout probability = 0 , Minor allele frequency = 0 )
+"11"
+0.004
+"13"
+0.008
+"14"
+0.061
+"15"
+0.15
+"16"
+0.316
+"17"
+0.223
+"18"
+0.147
+"19"
+0.071
+"20"
+0.019
+"21"
+0.001
+"SE33"
+0
+0
+0
+0
+46
+0.1
+0.1
+0.0
+0.0
+#FALSE#
+0
+46	(DatabaseSize = 1100 , Dropout probability = 0 , Minor allele frequency = 0 )
+"5"
+0.001001001001
+"7"
+0.001001001001
+"9"
+0.001001001001
+"10"
+0.001001001001
+"11"
+0.001001001001
+"11.2"
+0.001001001001
+"12"
+0.005005005005
+"13"
+0.005005005005
+"13.2"
+0.002002002002
+"14"
+0.03603603604
+"14.2"
+0.005005005005
+"15"
+0.03603603604
+"15.2"
+0.002002002002
+"16"
+0.08108108108
+"16.2"
+0.003003003003
+"16.3"
+0.001001001001
+"17"
+0.08408408408
+"18"
+0.0950950951
+"19"
+0.1131131131
+"19.2"
+0.001001001001
+"20"
+0.05905905906
+"20.2"
+0.002002002002
+"21"
+0.03103103103
+"21.2"
+0.006006006006
+"22"
+0.006006006006
+"22.2"
+0.02002002002
+"23"
+0.002002002002
+"23.2"
+0.01901901902
+"24"
+0.001001001001
+"24.2"
+0.02602602603
+"25"
+0.005005005005
+"25.2"
+0.04004004004
+"26"
+0.001001001001
+"26.2"
+0.06606606607
+"27"
+0.002002002002
+"27.2"
+0.07007007007
+"28.2"
+0.05605605606
+"29"
+0.004004004004
+"29.2"
+0.04704704705
+"30"
+0.001001001001
+"30.2"
+0.02902902903
+"31.2"
+0.02102102102
+"32.2"
+0.006006006006
+"33"
+0.001001001001
+"33.2"
+0.001001001001
+"34"
+0.002002002002
+"Penta_D"
+0
+0
+0
+0
+14
+0.1
+0.1
+0.0
+0.0
+#FALSE#
+0
+14	(DatabaseSize = 1100 , Dropout probability = 0 , Minor allele frequency = 0 )
+"2.2"
+0.07992007991
+"3.2"
+0.002997002997
+"5"
+0.01798201798
+"6"
+0.0009990009977
+"7"
+0.01798201798
+"8"
+0.04495504496
+"9"
+0.1758241758
+"10"
+0.1518481518
+"11"
+0.1388611389
+"12"
+0.1468531469
+"13"
+0.1458541459
+"14"
+0.05894105894
+"15"
+0.01498501499
+"16"
+0.001998001998
+"Penta_E"
+0
+0
+0
+0
+18
+0.1
+0.1
+0.0
+0.0
+#FALSE#
+0
+18	(DatabaseSize = 1100 , Dropout probability = 0 , Minor allele frequency = 0 )
+"5"
+0.06106106106
+"7"
+0.08008008007
+"8"
+0.08908908908
+"9"
+0.01801801802
+"10"
+0.07507507508
+"11"
+0.09209209208
+"12"
+0.1511511512
+"13"
+0.09509509509
+"14"
+0.07807807807
+"15"
+0.07407407407
+"16"
+0.05905905906
+"17"
+0.05505505506
+"18"
+0.02402402402
+"19"
+0.01501501502
+"20"
+0.008008008007
+"21"
+0.01801801802
+"22"
+0.005005005005
+"23"
+0.002002002002
+"D6S1043"
+0
+0
+0
+0
+22
+0.1
+0.1
+0.0
+0.0
+#FALSE#
+0
+22	(DatabaseSize = 1100 , Dropout probability = 0 , Minor allele frequency = 0 )
+"9"
+0.001996007984
+"10"
+0.007984031936
+"11"
+0.1586826347
+"12"
+0.1836327345
+"13"
+0.1167664671
+"14"
+0.09680638723
+"15"
+0.03493013972
+"16"
+0.02095808383
+"17"
+0.06087824351
+"18"
+0.1157684631
+"19"
+0.0878243513
+"19.3"
+0.00499001996
+"20"
+0.04091816367
+"20.3"
+0.008982035928
+"21"
+0.00998003992
+"21.3"
+0.02694610778
+"22"
+0.008982035928
+"22.3"
+0.00499001996
+"23"
+0.000998003992
+"23.3"
+0.000998003992
+"24"
+0.00499001996
+"25"
+0.000998003992
+
+[DVI]
+[[Unidentified persons]]
+nPersons= 0
+[[Notes]]
+nFamilies= 15
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[[Reference Families]]
+nFamilies= 15
+[[[Family 1 ]]]
+Name= FAM01
+[[[[Persons]]]]
+nPersons= 3
+[[[[[Person 1]]]]]
+Name= 1
+Gender= Male
+[[[[[[DNA data]]]]]]
+nSystems= 24
+SystemName= CSF1PO
+Allele1= 12
+Allele2= 12
+SystemName= D1S1656
+Allele1= 13
+Allele2= 15
+SystemName= D2S441
+Allele1= 10
+Allele2= 11
+SystemName= D2S1338
+Allele1= 20
+Allele2= 25
+SystemName= D3S1358
+Allele1= 17
+Allele2= 19
+SystemName= D5S818
+Allele1= 12
+Allele2= 13
+SystemName= D7S820
+Allele1= 10
+Allele2= 12
+SystemName= D8S1179
+Allele1= 15
+Allele2= 15
+SystemName= D10S1248
+Allele1= 13
+Allele2= 15
+SystemName= D12S391
+Allele1= 15
+Allele2= 16
+SystemName= D13S317
+Allele1= 9
+Allele2= 13
+SystemName= D16S539
+Allele1= 9
+Allele2= 13
+SystemName= D18S51
+Allele1= 16
+Allele2= 18
+SystemName= D19S433
+Allele1= 12
+Allele2= 13
+SystemName= D21S11
+Allele1= 29
+Allele2= 31
+SystemName= D22S1045
+Allele1= 12
+Allele2= 16
+SystemName= FGA
+Allele1= 23
+Allele2= 26
+SystemName= TH01
+Allele1= 7
+Allele2= 8
+SystemName= TPOX
+Allele1= 8
+Allele2= 11
+SystemName= vWA
+Allele1= 16
+Allele2= 19
+SystemName= SE33
+Allele1= 14
+Allele2= 17
+SystemName= Penta_D
+Allele1= 9
+Allele2= 13
+SystemName= Penta_E
+Allele1= 10
+Allele2= 11
+SystemName= D6S1043
+Allele1= 11
+Allele2= 12
+[[[[[Person 2]]]]]
+Name= 2
+Gender= Female
+[[[[[[DNA data]]]]]]
+nSystems= 24
+SystemName= CSF1PO
+Allele1= 7
+Allele2= 10
+SystemName= D1S1656
+Allele1= 11
+Allele2= 11
+SystemName= D2S441
+Allele1= 10
+Allele2= 12
+SystemName= D2S1338
+Allele1= 23
+Allele2= 24
+SystemName= D3S1358
+Allele1= 15
+Allele2= 17
+SystemName= D5S818
+Allele1= 12
+Allele2= 13
+SystemName= D7S820
+Allele1= 10
+Allele2= 12
+SystemName= D8S1179
+Allele1= 13
+Allele2= 15
+SystemName= D10S1248
+Allele1= 12
+Allele2= 12
+SystemName= D12S391
+Allele1= 20
+Allele2= 22
+SystemName= D13S317
+Allele1= 9
+Allele2= 13
+SystemName= D16S539
+Allele1= 9
+Allele2= 13
+SystemName= D18S51
+Allele1= 14
+Allele2= 20
+SystemName= D19S433
+Allele1= 12
+Allele2= 13
+SystemName= D21S11
+Allele1= 29
+Allele2= 32.2
+SystemName= D22S1045
+Allele1= 15
+Allele2= 17
+SystemName= FGA
+Allele1= 22
+Allele2= 23
+SystemName= TH01
+Allele1= 6
+Allele2= 7
+SystemName= TPOX
+Allele1= 8
+Allele2= 12
+SystemName= vWA
+Allele1= 14
+Allele2= 18
+SystemName= SE33
+Allele1= 15
+Allele2= 25.2
+SystemName= Penta_D
+Allele1= 9
+Allele2= 14
+SystemName= Penta_E
+Allele1= 7
+Allele2= 10
+SystemName= D6S1043
+Allele1= 11
+Allele2= 18
+[[[[[Person 3]]]]]
+Name= Missing female 1
+Gender= Female
+[[[[[[DNA data]]]]]]
+nSystems= 0
+[[[[Pedigrees]]]]
+nPedigrees= 2
+[[[[[Pedigree 1]]]]]
+Name= Reference pedigree
+nRelations= 2
+Parent= 1
+Child= Missing person
+Parent= 2
+Child= Missing person
+[[[[[Pedigree 2]]]]]
+Name= MP
+nRelations= 2
+Parent= 1
+Child= Missing person
+Parent= 2
+Child= Missing person
+[[[Family 2 ]]]
+Name= FAM02
+[[[[Persons]]]]
+nPersons= 5
+[[[[[Person 1]]]]]
+Name= 1
+Gender= Male
+[[[[[[DNA data]]]]]]
+nSystems= 0
+[[[[[Person 2]]]]]
+Name= 2
+Gender= Female
+[[[[[[DNA data]]]]]]
+nSystems= 24
+SystemName= CSF1PO
+Allele1= 8
+Allele2= 10
+SystemName= D1S1656
+Allele1= 17.3
+Allele2= 17.3
+SystemName= D2S441
+Allele1= 11
+Allele2= 12
+SystemName= D2S1338
+Allele1= 16
+Allele2= 17
+SystemName= D3S1358
+Allele1= 16
+Allele2= 16
+SystemName= D5S818
+Allele1= 11
+Allele2= 12
+SystemName= D7S820
+Allele1= 10
+Allele2= 10
+SystemName= D8S1179
+Allele1= 11
+Allele2= 14
+SystemName= D10S1248
+Allele1= 12
+Allele2= 15
+SystemName= D12S391
+Allele1= 19
+Allele2= 21
+SystemName= D13S317
+Allele1= 12
+Allele2= 12
+SystemName= D16S539
+Allele1= 9
+Allele2= 11
+SystemName= D18S51
+Allele1= 13
+Allele2= 19
+SystemName= D19S433
+Allele1= 13.2
+Allele2= 14
+SystemName= D21S11
+Allele1= 30
+Allele2= 31.2
+SystemName= D22S1045
+Allele1= 10
+Allele2= 15
+SystemName= FGA
+Allele1= 20
+Allele2= 22
+SystemName= TH01
+Allele1= 6
+Allele2= 7
+SystemName= TPOX
+Allele1= 9
+Allele2= 12
+SystemName= vWA
+Allele1= 15
+Allele2= 16
+SystemName= SE33
+Allele1= 20
+Allele2= 27.2
+SystemName= Penta_D
+Allele1= 11
+Allele2= 13
+SystemName= Penta_E
+Allele1= 11
+Allele2= 16
+SystemName= D6S1043
+Allele1= 11
+Allele2= 12
+[[[[[Person 3]]]]]
+Name= 4
+Gender= Female
+[[[[[[DNA data]]]]]]
+nSystems= 24
+SystemName= CSF1PO
+Allele1= 8
+Allele2= 12
+SystemName= D1S1656
+Allele1= 12
+Allele2= 13
+SystemName= D2S441
+Allele1= 10
+Allele2= 11
+SystemName= D2S1338
+Allele1= 23
+Allele2= 24
+SystemName= D3S1358
+Allele1= 15
+Allele2= 18
+SystemName= D5S818
+Allele1= 11
+Allele2= 11
+SystemName= D7S820
+Allele1= 8
+Allele2= 11
+SystemName= D8S1179
+Allele1= 14
+Allele2= 14
+SystemName= D10S1248
+Allele1= 13
+Allele2= 15
+SystemName= D12S391
+Allele1= 20
+Allele2= 21
+SystemName= D13S317
+Allele1= 10
+Allele2= 12
+SystemName= D16S539
+Allele1= 9
+Allele2= 9
+SystemName= D18S51
+Allele1= 16
+Allele2= 17
+SystemName= D19S433
+Allele1= 13
+Allele2= 14.2
+SystemName= D21S11
+Allele1= 31.2
+Allele2= 33.2
+SystemName= D22S1045
+Allele1= 12
+Allele2= 15
+SystemName= FGA
+Allele1= 21
+Allele2= 24
+SystemName= TH01
+Allele1= 6
+Allele2= 7
+SystemName= TPOX
+Allele1= 8
+Allele2= 12
+SystemName= vWA
+Allele1= 17
+Allele2= 18
+SystemName= SE33
+Allele1= 27
+Allele2= 27.2
+SystemName= Penta_D
+Allele1= 2.2
+Allele2= 2.2
+SystemName= Penta_E
+Allele1= 5
+Allele2= 11
+SystemName= D6S1043
+Allele1= 13
+Allele2= 18
+[[[[[Person 4]]]]]
+Name= 5
+Gender= Male
+[[[[[[DNA data]]]]]]
+nSystems= 24
+SystemName= CSF1PO
+Allele1= 11
+Allele2= 12
+SystemName= D1S1656
+Allele1= 12
+Allele2= 17.3
+SystemName= D2S441
+Allele1= 10
+Allele2= 10
+SystemName= D2S1338
+Allele1= 23
+Allele2= 23
+SystemName= D3S1358
+Allele1= 15
+Allele2= 18
+SystemName= D5S818
+Allele1= 11
+Allele2= 11
+SystemName= D7S820
+Allele1= 10
+Allele2= 11
+SystemName= D8S1179
+Allele1= 14
+Allele2= 14
+SystemName= D10S1248
+Allele1= 12
+Allele2= 13
+SystemName= D12S391
+Allele1= 20
+Allele2= 23
+SystemName= D13S317
+Allele1= 9
+Allele2= 12
+SystemName= D16S539
+Allele1= 9
+Allele2= 11
+SystemName= D18S51
+Allele1= 16
+Allele2= 19
+SystemName= D19S433
+Allele1= 13
+Allele2= 14
+SystemName= D21S11
+Allele1= 33.2
+Allele2= 33.2
+SystemName= D22S1045
+Allele1= 15
+Allele2= 15
+SystemName= FGA
+Allele1= 20
+Allele2= 24
+SystemName= TH01
+Allele1= 6
+Allele2= 6
+SystemName= TPOX
+Allele1= 8
+Allele2= 9
+SystemName= vWA
+Allele1= 18
+Allele2= 18
+SystemName= SE33
+Allele1= 27.2
+Allele2= 27.2
+SystemName= Penta_D
+Allele1= 2.2
+Allele2= 2.2
+SystemName= Penta_E
+Allele1= 5
+Allele2= 18
+SystemName= D6S1043
+Allele1= 11
+Allele2= 18
+[[[[[Person 5]]]]]
+Name= Missing female 1
+Gender= Female
+[[[[[[DNA data]]]]]]
+nSystems= 0
+[[[[Pedigrees]]]]
+nPedigrees= 2
+[[[[[Pedigree 1]]]]]
+Name= Reference pedigree
+nRelations= 4
+Parent= 1
+Child= Missing person
+Parent= 2
+Child= Missing person
+Parent= Missing person
+Child= 5
+Parent= 4
+Child= 5
+[[[[[Pedigree 2]]]]]
+Name= MP
+nRelations= 4
+Parent= 1
+Child= Missing person
+Parent= 2
+Child= Missing person
+Parent= Missing person
+Child= 5
+Parent= 4
+Child= 5
+[[[Family 3 ]]]
+Name= FAM03
+[[[[Persons]]]]
+nPersons= 6
+[[[[[Person 1]]]]]
+Name= 1
+Gender= Male
+[[[[[[DNA data]]]]]]
+nSystems= 24
+SystemName= CSF1PO
+Allele1= 10
+Allele2= 12
+SystemName= D1S1656
+Allele1= 14.3
+Allele2= 18.3
+SystemName= D2S441
+Allele1= 11
+Allele2= 11
+SystemName= D2S1338
+Allele1= 21
+Allele2= 25
+SystemName= D3S1358
+Allele1= 15
+Allele2= 16
+SystemName= D5S818
+Allele1= 11
+Allele2= 11
+SystemName= D7S820
+Allele1= 11
+Allele2= 11
+SystemName= D8S1179
+Allele1= 11
+Allele2= 13
+SystemName= D10S1248
+Allele1= 16
+Allele2= 16
+SystemName= D12S391
+Allele1= 16
+Allele2= 18
+SystemName= D13S317
+Allele1= 10
+Allele2= 12
+SystemName= D16S539
+Allele1= 11
+Allele2= 13
+SystemName= D18S51
+Allele1= 14
+Allele2= 16
+SystemName= D19S433
+Allele1= 13.2
+Allele2= 14
+SystemName= D21S11
+Allele1= 29
+Allele2= 29
+SystemName= D22S1045
+Allele1= 11
+Allele2= 18
+SystemName= FGA
+Allele1= 23
+Allele2= 25
+SystemName= TH01
+Allele1= 7
+Allele2= 8
+SystemName= TPOX
+Allele1= 6
+Allele2= 12
+SystemName= vWA
+Allele1= 14
+Allele2= 17
+SystemName= SE33
+Allele1= 15
+Allele2= 16
+SystemName= Penta_D
+Allele1= 9
+Allele2= 14
+SystemName= Penta_E
+Allele1= 11
+Allele2= 13
+SystemName= D6S1043
+Allele1= 14
+Allele2= 20
+[[[[[Person 2]]]]]
+Name= 2
+Gender= Female
+[[[[[[DNA data]]]]]]
+nSystems= 0
+[[[[[Person 3]]]]]
+Name= 4
+Gender= Male
+[[[[[[DNA data]]]]]]
+nSystems= 0
+[[[[[Person 4]]]]]
+Name= 5
+Gender= Female
+[[[[[[DNA data]]]]]]
+nSystems= 0
+[[[[[Person 5]]]]]
+Name= 6
+Gender= Male
+[[[[[[DNA data]]]]]]
+nSystems= 24
+SystemName= CSF1PO
+Allele1= 11
+Allele2= 12
+SystemName= D1S1656
+Allele1= 12
+Allele2= 18.3
+SystemName= D2S441
+Allele1= 10
+Allele2= 11
+SystemName= D2S1338
+Allele1= 16
+Allele2= 20
+SystemName= D3S1358
+Allele1= 15
+Allele2= 15
+SystemName= D5S818
+Allele1= 11
+Allele2= 12
+SystemName= D7S820
+Allele1= 10
+Allele2= 11
+SystemName= D8S1179
+Allele1= 11
+Allele2= 14
+SystemName= D10S1248
+Allele1= 13
+Allele2= 16
+SystemName= D12S391
+Allele1= 15
+Allele2= 16
+SystemName= D13S317
+Allele1= 11
+Allele2= 12
+SystemName= D16S539
+Allele1= 12
+Allele2= 13
+SystemName= D18S51
+Allele1= 14
+Allele2= 15
+SystemName= D19S433
+Allele1= 11
+Allele2= 14
+SystemName= D21S11
+Allele1= 32.2
+Allele2= 35
+SystemName= D22S1045
+Allele1= 15
+Allele2= 15
+SystemName= FGA
+Allele1= 24
+Allele2= 26
+SystemName= TH01
+Allele1= 7
+Allele2= 8
+SystemName= TPOX
+Allele1= 6
+Allele2= 10
+SystemName= vWA
+Allele1= 15
+Allele2= 17
+SystemName= SE33
+Allele1= 15
+Allele2= 17
+SystemName= Penta_D
+Allele1= 10
+Allele2= 14
+SystemName= Penta_E
+Allele1= 11
+Allele2= 13
+SystemName= D6S1043
+Allele1= 12
+Allele2= 20
+[[[[[Person 6]]]]]
+Name= Missing female 1
+Gender= Female
+[[[[[[DNA data]]]]]]
+nSystems= 0
+[[[[Pedigrees]]]]
+nPedigrees= 2
+[[[[[Pedigree 1]]]]]
+Name= Reference pedigree
+nRelations= 6
+Parent= 1
+Child= Missing person
+Parent= 2
+Child= Missing person
+Parent= 1
+Child= 4
+Parent= 2
+Child= 4
+Parent= 4
+Child= 6
+Parent= 5
+Child= 6
+[[[[[Pedigree 2]]]]]
+Name= MP
+nRelations= 6
+Parent= 1
+Child= Missing person
+Parent= 2
+Child= Missing person
+Parent= 1
+Child= 4
+Parent= 2
+Child= 4
+Parent= 4
+Child= 6
+Parent= 5
+Child= 6
+[[[Family 4 ]]]
+Name= FAM04
+[[[[Persons]]]]
+nPersons= 6
+[[[[[Person 1]]]]]
+Name= 1
+Gender= Male
+[[[[[[DNA data]]]]]]
+nSystems= 0
+[[[[[Person 2]]]]]
+Name= 2
+Gender= Female
+[[[[[[DNA data]]]]]]
+nSystems= 24
+SystemName= CSF1PO
+Allele1= 10
+Allele2= 10
+SystemName= D1S1656
+Allele1= 12
+Allele2= 18.3
+SystemName= D2S441
+Allele1= 10
+Allele2= 10
+SystemName= D2S1338
+Allele1= 19
+Allele2= 23
+SystemName= D3S1358
+Allele1= 15
+Allele2= 16
+SystemName= D5S818
+Allele1= 11
+Allele2= 11
+SystemName= D7S820
+Allele1= 12
+Allele2= 12
+SystemName= D8S1179
+Allele1= 12
+Allele2= 14
+SystemName= D10S1248
+Allele1= 8
+Allele2= 15
+SystemName= D12S391
+Allele1= 15
+Allele2= 25
+SystemName= D13S317
+Allele1= 11
+Allele2= 12
+SystemName= D16S539
+Allele1= 11
+Allele2= 11
+SystemName= D18S51
+Allele1= 12
+Allele2= 20
+SystemName= D19S433
+Allele1= 15
+Allele2= 15.2
+SystemName= D21S11
+Allele1= 28
+Allele2= 29
+SystemName= D22S1045
+Allele1= 16
+Allele2= 17
+SystemName= FGA
+Allele1= 24
+Allele2= 25
+SystemName= TH01
+Allele1= 8
+Allele2= 8
+SystemName= TPOX
+Allele1= 8
+Allele2= 13
+SystemName= vWA
+Allele1= 15
+Allele2= 15
+SystemName= SE33
+Allele1= 20
+Allele2= 29.2
+SystemName= Penta_D
+Allele1= 10
+Allele2= 10
+SystemName= Penta_E
+Allele1= 7
+Allele2= 18
+SystemName= D6S1043
+Allele1= 12
+Allele2= 13
+[[[[[Person 3]]]]]
+Name= 3
+Gender= Male
+[[[[[[DNA data]]]]]]
+nSystems= 0
+[[[[[Person 4]]]]]
+Name= 5
+Gender= Female
+[[[[[[DNA data]]]]]]
+nSystems= 0
+[[[[[Person 5]]]]]
+Name= 6
+Gender= Female
+[[[[[[DNA data]]]]]]
+nSystems= 24
+SystemName= CSF1PO
+Allele1= 10
+Allele2= 12
+SystemName= D1S1656
+Allele1= 10
+Allele2= 18.3
+SystemName= D2S441
+Allele1= 10
+Allele2= 11
+SystemName= D2S1338
+Allele1= 19
+Allele2= 19
+SystemName= D3S1358
+Allele1= 15
+Allele2= 16
+SystemName= D5S818
+Allele1= 11
+Allele2= 12
+SystemName= D7S820
+Allele1= 10
+Allele2= 12
+SystemName= D8S1179
+Allele1= 14
+Allele2= 14
+SystemName= D10S1248
+Allele1= 14
+Allele2= 15
+SystemName= D12S391
+Allele1= 16
+Allele2= 25
+SystemName= D13S317
+Allele1= 12
+Allele2= 12
+SystemName= D16S539
+Allele1= 10
+Allele2= 11
+SystemName= D18S51
+Allele1= 17
+Allele2= 20
+SystemName= D19S433
+Allele1= 15.2
+Allele2= 15.2
+SystemName= D21S11
+Allele1= 28
+Allele2= 30
+SystemName= D22S1045
+Allele1= 17
+Allele2= 17
+SystemName= FGA
+Allele1= 24
+Allele2= 26
+SystemName= TH01
+Allele1= 7
+Allele2= 8
+SystemName= TPOX
+Allele1= 8
+Allele2= 11
+SystemName= vWA
+Allele1= 15
+Allele2= 16
+SystemName= SE33
+Allele1= 20
+Allele2= 27.2
+SystemName= Penta_D
+Allele1= 9
+Allele2= 10
+SystemName= Penta_E
+Allele1= 7
+Allele2= 10
+SystemName= D6S1043
+Allele1= 11
+Allele2= 12
+[[[[[Person 6]]]]]
+Name= Missing female 1
+Gender= Female
+[[[[[[DNA data]]]]]]
+nSystems= 0
+[[[[Pedigrees]]]]
+nPedigrees= 2
+[[[[[Pedigree 1]]]]]
+Name= Reference pedigree
+nRelations= 6
+Parent= 1
+Child= Missing person
+Parent= 2
+Child= Missing person
+Parent= 1
+Child= 5
+Parent= 2
+Child= 5
+Parent= 2
+Child= 6
+Parent= 3
+Child= 6
+[[[[[Pedigree 2]]]]]
+Name= MP
+nRelations= 6
+Parent= 1
+Child= Missing person
+Parent= 2
+Child= Missing person
+Parent= 1
+Child= 5
+Parent= 2
+Child= 5
+Parent= 2
+Child= 6
+Parent= 3
+Child= 6
+[[[Family 5 ]]]
+Name= FAM05
+[[[[Persons]]]]
+nPersons= 7
+[[[[[Person 1]]]]]
+Name= 1
+Gender= Male
+[[[[[[DNA data]]]]]]
+nSystems= 24
+SystemName= CSF1PO
+Allele1= 12
+Allele2= 12
+SystemName= D1S1656
+Allele1= 17.3
+Allele2= 14
+SystemName= D2S441
+Allele1= 11
+Allele2= 14
+SystemName= D2S1338
+Allele1= 17
+Allele2= 21
+SystemName= D3S1358
+Allele1= 15
+Allele2= 14
+SystemName= D5S818
+Allele1= 13
+Allele2= 12
+SystemName= D7S820
+Allele1= 12
+Allele2= 10
+SystemName= D8S1179
+Allele1= 11
+Allele2= 14
+SystemName= D10S1248
+Allele1= 13
+Allele2= 15
+SystemName= D12S391
+Allele1= 18
+Allele2= 18
+SystemName= D13S317
+Allele1= 11
+Allele2= 9
+SystemName= D16S539
+Allele1= 13
+Allele2= 8
+SystemName= D18S51
+Allele1= 15
+Allele2= 15
+SystemName= D19S433
+Allele1= 11
+Allele2= 14
+SystemName= D21S11
+Allele1= 30
+Allele2= 32.2
+SystemName= D22S1045
+Allele1= 14
+Allele2= 16
+SystemName= FGA
+Allele1= 19
+Allele2= 19
+SystemName= TH01
+Allele1= 6
+Allele2= 7
+SystemName= TPOX
+Allele1= 11
+Allele2= 9
+SystemName= vWA
+Allele1= 16
+Allele2= 18
+SystemName= SE33
+Allele1= 20
+Allele2= 24.2
+SystemName= Penta_D
+Allele1= 9
+Allele2= 9
+SystemName= Penta_E
+Allele1= 13
+Allele2= 15
+SystemName= D6S1043
+Allele1= 12
+Allele2= 11
+[[[[[Person 2]]]]]
+Name= 2
+Gender= Female
+[[[[[[DNA data]]]]]]
+nSystems= 24
+SystemName= CSF1PO
+Allele1= 11
+Allele2= 11
+SystemName= D1S1656
+Allele1= 15
+Allele2= 15
+SystemName= D2S441
+Allele1= 10
+Allele2= 11
+SystemName= D2S1338
+Allele1= 27
+Allele2= 24
+SystemName= D3S1358
+Allele1= 17
+Allele2= 16
+SystemName= D5S818
+Allele1= 13
+Allele2= 12
+SystemName= D7S820
+Allele1= 12
+Allele2= 8
+SystemName= D8S1179
+Allele1= 8
+Allele2= 15
+SystemName= D10S1248
+Allele1= 14
+Allele2= 16
+SystemName= D12S391
+Allele1= 22
+Allele2= 16
+SystemName= D13S317
+Allele1= 11
+Allele2= 12
+SystemName= D16S539
+Allele1= 11
+Allele2= 13
+SystemName= D18S51
+Allele1= 15
+Allele2= 19
+SystemName= D19S433
+Allele1= 14
+Allele2= 14
+SystemName= D21S11
+Allele1= 29
+Allele2= 28
+SystemName= D22S1045
+Allele1= 13
+Allele2= 15
+SystemName= FGA
+Allele1= 21
+Allele2= 24
+SystemName= TH01
+Allele1= 7
+Allele2= 7
+SystemName= TPOX
+Allele1= 8
+Allele2= 12
+SystemName= vWA
+Allele1= 16
+Allele2= 16
+SystemName= SE33
+Allele1= 26.2
+Allele2= 14
+SystemName= Penta_D
+Allele1= 12
+Allele2= 11
+SystemName= Penta_E
+Allele1= 19
+Allele2= 7
+SystemName= D6S1043
+Allele1= 12
+Allele2= 11
+[[[[[Person 3]]]]]
+Name= 3
+Gender= Male
+[[[[[[DNA data]]]]]]
+nSystems= 24
+SystemName= CSF1PO
+Allele1= 12
+Allele2= 13
+SystemName= D1S1656
+Allele1= 14
+Allele2= 18.3
+SystemName= D2S441
+Allele1= 14
+Allele2= 10
+SystemName= D2S1338
+Allele1= 19
+Allele2= 20
+SystemName= D3S1358
+Allele1= 17
+Allele2= 15
+SystemName= D5S818
+Allele1= 13
+Allele2= 7
+SystemName= D7S820
+Allele1= 12
+Allele2= 8
+SystemName= D8S1179
+Allele1= 14
+Allele2= 15
+SystemName= D10S1248
+Allele1= 14
+Allele2= 16
+SystemName= D12S391
+Allele1= 18.3
+Allele2= 22
+SystemName= D13S317
+Allele1= 12
+Allele2= 11
+SystemName= D16S539
+Allele1= 13
+Allele2= 12
+SystemName= D18S51
+Allele1= 17
+Allele2= 12
+SystemName= D19S433
+Allele1= 14
+Allele2= 15.2
+SystemName= D21S11
+Allele1= 28
+Allele2= 30
+SystemName= D22S1045
+Allele1= 15
+Allele2= 11
+SystemName= FGA
+Allele1= 23
+Allele2= 25
+SystemName= TH01
+Allele1= 9.3
+Allele2= 8
+SystemName= TPOX
+Allele1= 8
+Allele2= 8
+SystemName= vWA
+Allele1= 17
+Allele2= 16
+SystemName= SE33
+Allele1= 28.2
+Allele2= 21
+SystemName= Penta_D
+Allele1= 11
+Allele2= 12
+SystemName= Penta_E
+Allele1= 14
+Allele2= 10
+SystemName= D6S1043
+Allele1= 17
+Allele2= 11
+[[[[[Person 4]]]]]
+Name= 4
+Gender= Female
+[[[[[[DNA data]]]]]]
+nSystems= 24
+SystemName= CSF1PO
+Allele1= 10
+Allele2= 12
+SystemName= D1S1656
+Allele1= 12
+Allele2= 14
+SystemName= D2S441
+Allele1= 10
+Allele2= 14
+SystemName= D2S1338
+Allele1= 24
+Allele2= 22
+SystemName= D3S1358
+Allele1= 14
+Allele2= 15
+SystemName= D5S818
+Allele1= 10
+Allele2= 13
+SystemName= D7S820
+Allele1= 11
+Allele2= 8
+SystemName= D8S1179
+Allele1= 13
+Allele2= 14
+SystemName= D10S1248
+Allele1= 13
+Allele2= 16
+SystemName= D12S391
+Allele1= 19
+Allele2= 23
+SystemName= D13S317
+Allele1= 8
+Allele2= 13
+SystemName= D16S539
+Allele1= 11
+Allele2= 9
+SystemName= D18S51
+Allele1= 14
+Allele2= 17
+SystemName= D19S433
+Allele1= 12.2
+Allele2= 13
+SystemName= D21S11
+Allele1= 30
+Allele2= 27
+SystemName= D22S1045
+Allele1= 15
+Allele2= 14
+SystemName= FGA
+Allele1= 24
+Allele2= 25
+SystemName= TH01
+Allele1= 7
+Allele2= 6
+SystemName= TPOX
+Allele1= 10
+Allele2= 12
+SystemName= vWA
+Allele1= 18
+Allele2= 16
+SystemName= SE33
+Allele1= 19
+Allele2= 27.2
+SystemName= Penta_D
+Allele1= 10
+Allele2= 2.2
+SystemName= Penta_E
+Allele1= 7
+Allele2= 11
+SystemName= D6S1043
+Allele1= 15
+Allele2= 19
+[[[[[Person 5]]]]]
+Name= 5
+Gender= Male
+[[[[[[DNA data]]]]]]
+nSystems= 0
+[[[[[Person 6]]]]]
+Name= 6
+Gender= Female
+[[[[[[DNA data]]]]]]
+nSystems= 0
+[[[[[Person 7]]]]]
+Name= Missing female 1
+Gender= Female
+[[[[[[DNA data]]]]]]
+nSystems= 0
+[[[[Pedigrees]]]]
+nPedigrees= 2
+[[[[[Pedigree 1]]]]]
+Name= Reference pedigree
+nRelations= 6
+Parent= 1
+Child= 5
+Parent= 2
+Child= 5
+Parent= 3
+Child= 6
+Parent= 4
+Child= 6
+Parent= 5
+Child= Missing person
+Parent= 6
+Child= Missing person
+[[[[[Pedigree 2]]]]]
+Name= Missing person
+nRelations= 6
+Parent= 1
+Child= 5
+Parent= 2
+Child= 5
+Parent= 3
+Child= 6
+Parent= 4
+Child= 6
+Parent= 5
+Child= Missing person
+Parent= 6
+Child= Missing person
+[[[Family 6 ]]]
+Name= FAM06
+[[[[Persons]]]]
+nPersons= 4
+[[[[[Person 1]]]]]
+Name= 2
+Gender= Female
+[[[[[[DNA data]]]]]]
+nSystems= 24
+SystemName= CSF1PO
+Allele1= 12
+Allele2= 12
+SystemName= D1S1656
+Allele1= 15.3
+Allele2= 18.3
+SystemName= D2S441
+Allele1= 10
+Allele2= 14
+SystemName= D2S1338
+Allele1= 20
+Allele2= 24
+SystemName= D3S1358
+Allele1= 17
+Allele2= 17
+SystemName= D5S818
+Allele1= 11
+Allele2= 13
+SystemName= D7S820
+Allele1= 8
+Allele2= 11
+SystemName= D8S1179
+Allele1= 12
+Allele2= 17
+SystemName= D10S1248
+Allele1= 14
+Allele2= 17
+SystemName= D12S391
+Allele1= 20
+Allele2= 25
+SystemName= D13S317
+Allele1= 11
+Allele2= 12
+SystemName= D16S539
+Allele1= 9
+Allele2= 12
+SystemName= D18S51
+Allele1= 12
+Allele2= 13
+SystemName= D19S433
+Allele1= 15
+Allele2= 15
+SystemName= D21S11
+Allele1= 27
+Allele2= 32.2
+SystemName= D22S1045
+Allele1= 11
+Allele2= 15
+SystemName= FGA
+Allele1= 19
+Allele2= 24
+SystemName= TH01
+Allele1= 6
+Allele2= 8
+SystemName= TPOX
+Allele1= 8
+Allele2= 9
+SystemName= vWA
+Allele1= 15
+Allele2= 17
+SystemName= SE33
+Allele1= 19
+Allele2= 19
+SystemName= Penta_D
+Allele1= 10
+Allele2= 10
+SystemName= Penta_E
+Allele1= 8
+Allele2= 13
+SystemName= D6S1043
+Allele1= 11
+Allele2= 17
+[[[[[Person 2]]]]]
+Name= 3
+Gender= Female
+[[[[[[DNA data]]]]]]
+nSystems= 24
+SystemName= CSF1PO
+Allele1= 10
+Allele2= 12
+SystemName= D1S1656
+Allele1= 14
+Allele2= 18.3
+SystemName= D2S441
+Allele1= 11
+Allele2= 14
+SystemName= D2S1338
+Allele1= 23
+Allele2= 24
+SystemName= D3S1358
+Allele1= 15
+Allele2= 17
+SystemName= D5S818
+Allele1= 9
+Allele2= 11
+SystemName= D7S820
+Allele1= 11
+Allele2= 11
+SystemName= D8S1179
+Allele1= 12
+Allele2= 14
+SystemName= D10S1248
+Allele1= 14
+Allele2= 16
+SystemName= D12S391
+Allele1= 19
+Allele2= 25
+SystemName= D13S317
+Allele1= 10
+Allele2= 12
+SystemName= D16S539
+Allele1= 12
+Allele2= 13
+SystemName= D18S51
+Allele1= 12
+Allele2= 12
+SystemName= D19S433
+Allele1= 13
+Allele2= 15
+SystemName= D21S11
+Allele1= 27
+Allele2= 29
+SystemName= D22S1045
+Allele1= 11
+Allele2= 15
+SystemName= FGA
+Allele1= 19
+Allele2= 21
+SystemName= TH01
+Allele1= 6
+Allele2= 9
+SystemName= TPOX
+Allele1= 8
+Allele2= 11
+SystemName= vWA
+Allele1= 16
+Allele2= 17
+SystemName= SE33
+Allele1= 19
+Allele2= 24.2
+SystemName= Penta_D
+Allele1= 2.2
+Allele2= 10
+SystemName= Penta_E
+Allele1= 8
+Allele2= 10
+SystemName= D6S1043
+Allele1= 13
+Allele2= 17
+[[[[[Person 3]]]]]
+Name= 4
+Gender= Female
+[[[[[[DNA data]]]]]]
+nSystems= 24
+SystemName= CSF1PO
+Allele1= 10
+Allele2= 12
+SystemName= D1S1656
+Allele1= 15.3
+Allele2= 17
+SystemName= D2S441
+Allele1= 11
+Allele2= 14
+SystemName= D2S1338
+Allele1= 23
+Allele2= 24
+SystemName= D3S1358
+Allele1= 16
+Allele2= 17
+SystemName= D5S818
+Allele1= 9
+Allele2= 13
+SystemName= D7S820
+Allele1= 8
+Allele2= 10
+SystemName= D8S1179
+Allele1= 12
+Allele2= 15
+SystemName= D10S1248
+Allele1= 14
+Allele2= 16
+SystemName= D12S391
+Allele1= 19
+Allele2= 25
+SystemName= D13S317
+Allele1= 10
+Allele2= 11
+SystemName= D16S539
+Allele1= 12
+Allele2= 13
+SystemName= D18S51
+Allele1= 12
+Allele2= 13
+SystemName= D19S433
+Allele1= 13
+Allele2= 15
+SystemName= D21S11
+Allele1= 27
+Allele2= 29
+SystemName= D22S1045
+Allele1= 11
+Allele2= 15
+SystemName= FGA
+Allele1= 21
+Allele2= 24
+SystemName= TH01
+Allele1= 6
+Allele2= 7
+SystemName= TPOX
+Allele1= 8
+Allele2= 11
+SystemName= vWA
+Allele1= 15
+Allele2= 16
+SystemName= SE33
+Allele1= 19
+Allele2= 24.2
+SystemName= Penta_D
+Allele1= 2.2
+Allele2= 10
+SystemName= Penta_E
+Allele1= 8
+Allele2= 10
+SystemName= D6S1043
+Allele1= 13
+Allele2= 17
+[[[[[Person 4]]]]]
+Name= Missing male 1
+Gender= Male
+[[[[[[DNA data]]]]]]
+nSystems= 0
+[[[[Pedigrees]]]]
+nPedigrees= 2
+[[[[[Pedigree 1]]]]]
+Name= Reference pedigree
+nRelations= 4
+Parent= Missing person
+Child= 3
+Parent= Missing person
+Child= 4
+Parent= 2
+Child= 3
+Parent= 2
+Child= 4
+[[[[[Pedigree 2]]]]]
+Name= MP
+nRelations= 4
+Parent= Missing person
+Child= 3
+Parent= Missing person
+Child= 4
+Parent= 2
+Child= 3
+Parent= 2
+Child= 4
+[[[Family 7 ]]]
+Name= FAM07
+[[[[Persons]]]]
+nPersons= 5
+[[[[[Person 1]]]]]
+Name= 1
+Gender= Female
+[[[[[[DNA data]]]]]]
+nSystems= 0
+[[[[[Person 2]]]]]
+Name= 3
+Gender= Female
+[[[[[[DNA data]]]]]]
+nSystems= 0
+[[[[[Person 3]]]]]
+Name= 4
+Gender= Male
+[[[[[[DNA data]]]]]]
+nSystems= 24
+SystemName= CSF1PO
+Allele1= 11
+Allele2= 11
+SystemName= D1S1656
+Allele1= 13
+Allele2= 14
+SystemName= D2S441
+Allele1= 11
+Allele2= 12
+SystemName= D2S1338
+Allele1= 17
+Allele2= 23
+SystemName= D3S1358
+Allele1= 15
+Allele2= 16
+SystemName= D5S818
+Allele1= 11
+Allele2= 13
+SystemName= D7S820
+Allele1= 7
+Allele2= 11
+SystemName= D8S1179
+Allele1= 13
+Allele2= 14
+SystemName= D10S1248
+Allele1= 12
+Allele2= 14
+SystemName= D12S391
+Allele1= 19
+Allele2= 20
+SystemName= D13S317
+Allele1= 8
+Allele2= 13
+SystemName= D16S539
+Allele1= 9
+Allele2= 12
+SystemName= D18S51
+Allele1= 17
+Allele2= 18
+SystemName= D19S433
+Allele1= 13
+Allele2= 14
+SystemName= D21S11
+Allele1= 30
+Allele2= 30.2
+SystemName= D22S1045
+Allele1= 16
+Allele2= 16
+SystemName= FGA
+Allele1= 23
+Allele2= 25
+SystemName= TH01
+Allele1= 7
+Allele2= 9
+SystemName= TPOX
+Allele1= 8
+Allele2= 11
+SystemName= vWA
+Allele1= 15
+Allele2= 16
+SystemName= SE33
+Allele1= 17
+Allele2= 28.2
+SystemName= Penta_D
+Allele1= 8
+Allele2= 14
+SystemName= Penta_E
+Allele1= 13
+Allele2= 14
+SystemName= D6S1043
+Allele1= 13
+Allele2= 14
+[[[[[Person 4]]]]]
+Name= 5
+Gender= Female
+[[[[[[DNA data]]]]]]
+nSystems= 0
+[[[[[Person 5]]]]]
+Name= Missing female 1
+Gender= Female
+[[[[[[DNA data]]]]]]
+nSystems= 0
+[[[[Pedigrees]]]]
+nPedigrees= 2
+[[[[[Pedigree 1]]]]]
+Name= Reference pedigree
+nRelations= 4
+Parent= 1
+Child= 4
+Parent= Missing person
+Child= 4
+Parent= Missing person
+Child= 5
+Parent= 3
+Child= 5
+[[[[[Pedigree 2]]]]]
+Name= MP
+nRelations= 4
+Parent= 1
+Child= 4
+Parent= Missing person
+Child= 4
+Parent= Missing person
+Child= 5
+Parent= 3
+Child= 5
+[[[Family 8 ]]]
+Name= FAM08
+[[[[Persons]]]]
+nPersons= 7
+[[[[[Person 1]]]]]
+Name= 1
+Gender= Male
+[[[[[[DNA data]]]]]]
+nSystems= 0
+[[[[[Person 2]]]]]
+Name= 3
+Gender= Male
+[[[[[[DNA data]]]]]]
+nSystems= 24
+SystemName= CSF1PO
+Allele1= 11
+Allele2= 11
+SystemName= D1S1656
+Allele1= 14
+Allele2= 14
+SystemName= D2S441
+Allele1= 10
+Allele2= 11
+SystemName= D2S1338
+Allele1= 22
+Allele2= 23
+SystemName= D3S1358
+Allele1= 16
+Allele2= 18
+SystemName= D5S818
+Allele1= 11
+Allele2= 12
+SystemName= D7S820
+Allele1= 8
+Allele2= 12
+SystemName= D8S1179
+Allele1= 13
+Allele2= 14
+SystemName= D10S1248
+Allele1= 15
+Allele2= 16
+SystemName= D12S391
+Allele1= 20
+Allele2= 20
+SystemName= D13S317
+Allele1= 12
+Allele2= 14
+SystemName= D16S539
+Allele1= 8
+Allele2= 11
+SystemName= D18S51
+Allele1= 12
+Allele2= 14
+SystemName= D19S433
+Allele1= 13.2
+Allele2= 14
+SystemName= D21S11
+Allele1= 28
+Allele2= 30
+SystemName= D22S1045
+Allele1= 15
+Allele2= 15
+SystemName= FGA
+Allele1= 23
+Allele2= 23
+SystemName= TH01
+Allele1= 9
+Allele2= 9
+SystemName= TPOX
+Allele1= 9
+Allele2= 11
+SystemName= vWA
+Allele1= 14
+Allele2= 16
+SystemName= SE33
+Allele1= 29.2
+Allele2= 31.2
+SystemName= Penta_D
+Allele1= 9
+Allele2= 13
+SystemName= Penta_E
+Allele1= 15
+Allele2= 16
+SystemName= D6S1043
+Allele1= 20
+Allele2= 24
+[[[[[Person 3]]]]]
+Name= 4
+Gender= Female
+[[[[[[DNA data]]]]]]
+nSystems= 24
+SystemName= CSF1PO
+Allele1= 11
+Allele2= 12
+SystemName= D1S1656
+Allele1= 15.3
+Allele2= 15.3
+SystemName= D2S441
+Allele1= 10
+Allele2= 14
+SystemName= D2S1338
+Allele1= 16
+Allele2= 19
+SystemName= D3S1358
+Allele1= 16
+Allele2= 17
+SystemName= D5S818
+Allele1= 11
+Allele2= 12
+SystemName= D7S820
+Allele1= 11
+Allele2= 13
+SystemName= D8S1179
+Allele1= 10
+Allele2= 13
+SystemName= D10S1248
+Allele1= 12
+Allele2= 13
+SystemName= D12S391
+Allele1= 19
+Allele2= 22
+SystemName= D13S317
+Allele1= 13
+Allele2= 14
+SystemName= D16S539
+Allele1= 11
+Allele2= 12
+SystemName= D18S51
+Allele1= 14
+Allele2= 16
+SystemName= D19S433
+Allele1= 12
+Allele2= 14
+SystemName= D21S11
+Allele1= 30
+Allele2= 34.2
+SystemName= D22S1045
+Allele1= 16
+Allele2= 17
+SystemName= FGA
+Allele1= 24
+Allele2= 25
+SystemName= TH01
+Allele1= 7
+Allele2= 9
+SystemName= TPOX
+Allele1= 9
+Allele2= 11
+SystemName= vWA
+Allele1= 15
+Allele2= 19
+SystemName= SE33
+Allele1= 22.2
+Allele2= 23.2
+SystemName= Penta_D
+Allele1= 13
+Allele2= 14
+SystemName= Penta_E
+Allele1= 10
+Allele2= 12
+SystemName= D6S1043
+Allele1= 12
+Allele2= 19
+[[[[[Person 4]]]]]
+Name= 5
+Gender= Male
+[[[[[[DNA data]]]]]]
+nSystems= 0
+[[[[[Person 5]]]]]
+Name= 6
+Gender= Female
+[[[[[[DNA data]]]]]]
+nSystems= 0
+[[[[[Person 6]]]]]
+Name= 7
+Gender= Female
+[[[[[[DNA data]]]]]]
+nSystems= 24
+SystemName= CSF1PO
+Allele1= 12
+Allele2= 12
+SystemName= D1S1656
+Allele1= 12
+Allele2= 15.3
+SystemName= D2S441
+Allele1= 10
+Allele2= 11
+SystemName= D2S1338
+Allele1= 19
+Allele2= 19
+SystemName= D3S1358
+Allele1= 16
+Allele2= 17
+SystemName= D5S818
+Allele1= 11
+Allele2= 13
+SystemName= D7S820
+Allele1= 10
+Allele2= 12
+SystemName= D8S1179
+Allele1= 13
+Allele2= 14
+SystemName= D10S1248
+Allele1= 15
+Allele2= 15
+SystemName= D12S391
+Allele1= 20
+Allele2= 20
+SystemName= D13S317
+Allele1= 10
+Allele2= 13
+SystemName= D16S539
+Allele1= 11
+Allele2= 11
+SystemName= D18S51
+Allele1= 12
+Allele2= 18
+SystemName= D19S433
+Allele1= 13
+Allele2= 14
+SystemName= D21S11
+Allele1= 29
+Allele2= 30
+SystemName= D22S1045
+Allele1= 10
+Allele2= 16
+SystemName= FGA
+Allele1= 22
+Allele2= 23
+SystemName= TH01
+Allele1= 7
+Allele2= 9
+SystemName= TPOX
+Allele1= 9
+Allele2= 12
+SystemName= vWA
+Allele1= 15
+Allele2= 19
+SystemName= SE33
+Allele1= 18
+Allele2= 29.2
+SystemName= Penta_D
+Allele1= 7
+Allele2= 13
+SystemName= Penta_E
+Allele1= 14
+Allele2= 16
+SystemName= D6S1043
+Allele1= 12
+Allele2= 20
+[[[[[Person 7]]]]]
+Name= Missing female 1
+Gender= Female
+[[[[[[DNA data]]]]]]
+nSystems= 0
+[[[[Pedigrees]]]]
+nPedigrees= 2
+[[[[[Pedigree 1]]]]]
+Name= Reference pedigree
+nRelations= 6
+Parent= 1
+Child= 4
+Parent= Missing person
+Child= 4
+Parent= 3
+Child= 6
+Parent= 4
+Child= 6
+Parent= 5
+Child= 7
+Parent= 6
+Child= 7
+[[[[[Pedigree 2]]]]]
+Name= MP
+nRelations= 6
+Parent= 1
+Child= 4
+Parent= Missing person
+Child= 4
+Parent= 3
+Child= 6
+Parent= 4
+Child= 6
+Parent= 5
+Child= 7
+Parent= 6
+Child= 7
+[[[Family 9 ]]]
+Name= FAM09
+[[[[Persons]]]]
+nPersons= 7
+[[[[[Person 1]]]]]
+Name= 1
+Gender= Male
+[[[[[[DNA data]]]]]]
+nSystems= 24
+SystemName= CSF1PO
+Allele1= 7
+Allele2= 11
+SystemName= D1S1656
+Allele1= 15
+Allele2= 16.3
+SystemName= D2S441
+Allele1= 11
+Allele2= 11
+SystemName= D2S1338
+Allele1= 17
+Allele2= 25
+SystemName= D3S1358
+Allele1= 14
+Allele2= 16
+SystemName= D5S818
+Allele1= 11
+Allele2= 12
+SystemName= D7S820
+Allele1= 11
+Allele2= 12
+SystemName= D8S1179
+Allele1= 13
+Allele2= 15
+SystemName= D10S1248
+Allele1= 14
+Allele2= 14
+SystemName= D12S391
+Allele1= 18
+Allele2= 21
+SystemName= D13S317
+Allele1= 9
+Allele2= 11
+SystemName= D16S539
+Allele1= 12
+Allele2= 13
+SystemName= D18S51
+Allele1= 14
+Allele2= 18
+SystemName= D19S433
+Allele1= 13
+Allele2= 14
+SystemName= D21S11
+Allele1= 27
+Allele2= 30
+SystemName= D22S1045
+Allele1= 15
+Allele2= 16
+SystemName= FGA
+Allele1= 18
+Allele2= 20
+SystemName= TH01
+Allele1= 6
+Allele2= 6
+SystemName= TPOX
+Allele1= 9
+Allele2= 11
+SystemName= vWA
+Allele1= 15
+Allele2= 18
+SystemName= SE33
+Allele1= 20
+Allele2= 21
+SystemName= Penta_D
+Allele1= 9
+Allele2= 10
+SystemName= Penta_E
+Allele1= 12
+Allele2= 12
+SystemName= D6S1043
+Allele1= 20
+Allele2= 20.3
+[[[[[Person 2]]]]]
+Name= 2
+Gender= Female
+[[[[[[DNA data]]]]]]
+nSystems= 0
+[[[[[Person 3]]]]]
+Name= 3
+Gender= Male
+[[[[[[DNA data]]]]]]
+nSystems= 0
+[[[[[Person 4]]]]]
+Name= 4
+Gender= Female
+[[[[[[DNA data]]]]]]
+nSystems= 24
+SystemName= CSF1PO
+Allele1= 7
+Allele2= 11
+SystemName= D1S1656
+Allele1= 15
+Allele2= 15
+SystemName= D2S441
+Allele1= 11
+Allele2= 12
+SystemName= D2S1338
+Allele1= 17
+Allele2= 22
+SystemName= D3S1358
+Allele1= 14
+Allele2= 16
+SystemName= D5S818
+Allele1= 11
+Allele2= 11
+SystemName= D7S820
+Allele1= 10
+Allele2= 11
+SystemName= D8S1179
+Allele1= 13
+Allele2= 15
+SystemName= D10S1248
+Allele1= 14
+Allele2= 14
+SystemName= D12S391
+Allele1= 21
+Allele2= 21
+SystemName= D13S317
+Allele1= 11
+Allele2= 13
+SystemName= D16S539
+Allele1= 10
+Allele2= 12
+SystemName= D18S51
+Allele1= 13
+Allele2= 18
+SystemName= D19S433
+Allele1= 14
+Allele2= 14
+SystemName= D21S11
+Allele1= 27
+Allele2= 28
+SystemName= D22S1045
+Allele1= 15
+Allele2= 16
+SystemName= FGA
+Allele1= 20
+Allele2= 21
+SystemName= TH01
+Allele1= 6
+Allele2= 7
+SystemName= TPOX
+Allele1= 9
+Allele2= 10
+SystemName= vWA
+Allele1= 15
+Allele2= 15
+SystemName= SE33
+Allele1= 21
+Allele2= 24.2
+SystemName= Penta_D
+Allele1= 9
+Allele2= 11
+SystemName= Penta_E
+Allele1= 12
+Allele2= 12
+SystemName= D6S1043
+Allele1= 19
+Allele2= 20
+[[[[[Person 5]]]]]
+Name= 6
+Gender= Female
+[[[[[[DNA data]]]]]]
+nSystems= 0
+[[[[[Person 6]]]]]
+Name= 7
+Gender= Female
+[[[[[[DNA data]]]]]]
+nSystems= 24
+SystemName= CSF1PO
+Allele1= 11
+Allele2= 11
+SystemName= D1S1656
+Allele1= 13
+Allele2= 14
+SystemName= D2S441
+Allele1= 10
+Allele2= 12
+SystemName= D2S1338
+Allele1= 16
+Allele2= 19
+SystemName= D3S1358
+Allele1= 14
+Allele2= 16
+SystemName= D5S818
+Allele1= 11
+Allele2= 11
+SystemName= D7S820
+Allele1= 10
+Allele2= 11
+SystemName= D8S1179
+Allele1= 14
+Allele2= 15
+SystemName= D10S1248
+Allele1= 14
+Allele2= 14
+SystemName= D12S391
+Allele1= 19
+Allele2= 21
+SystemName= D13S317
+Allele1= 11
+Allele2= 11
+SystemName= D16S539
+Allele1= 12
+Allele2= 14
+SystemName= D18S51
+Allele1= 13
+Allele2= 21
+SystemName= D19S433
+Allele1= 14
+Allele2= 15
+SystemName= D21S11
+Allele1= 28
+Allele2= 32
+SystemName= D22S1045
+Allele1= 14
+Allele2= 15
+SystemName= FGA
+Allele1= 21
+Allele2= 27
+SystemName= TH01
+Allele1= 6
+Allele2= 7
+SystemName= TPOX
+Allele1= 8
+Allele2= 9
+SystemName= vWA
+Allele1= 18
+Allele2= 18
+SystemName= SE33
+Allele1= 24.2
+Allele2= 26.2
+SystemName= Penta_D
+Allele1= 9
+Allele2= 13
+SystemName= Penta_E
+Allele1= 8
+Allele2= 12
+SystemName= D6S1043
+Allele1= 13
+Allele2= 19
+[[[[[Person 7]]]]]
+Name= Missing female 1
+Gender= Female
+[[[[[[DNA data]]]]]]
+nSystems= 0
+[[[[Pedigrees]]]]
+nPedigrees= 2
+[[[[[Pedigree 1]]]]]
+Name= Reference pedigree
+nRelations= 6
+Parent= 1
+Child= 4
+Parent= 2
+Child= 4
+Parent= 3
+Child= 6
+Parent= 4
+Child= 6
+Parent= Missing person
+Child= 7
+Parent= 6
+Child= 7
+[[[[[Pedigree 2]]]]]
+Name= MP
+nRelations= 6
+Parent= 1
+Child= 4
+Parent= 2
+Child= 4
+Parent= 3
+Child= 6
+Parent= 4
+Child= 6
+Parent= Missing person
+Child= 7
+Parent= 6
+Child= 7
+[[[Family 10 ]]]
+Name= FAM10
+[[[[Persons]]]]
+nPersons= 7
+[[[[[Person 1]]]]]
+Name= 1
+Gender= Female
+[[[[[[DNA data]]]]]]
+nSystems= 24
+SystemName= CSF1PO
+Allele1= 10
+Allele2= 11
+SystemName= D1S1656
+Allele1= 13
+Allele2= 14
+SystemName= D2S441
+Allele1= 13
+Allele2= 14
+SystemName= D2S1338
+Allele1= 18
+Allele2= 23
+SystemName= D3S1358
+Allele1= 15
+Allele2= 17
+SystemName= D5S818
+Allele1= 12
+Allele2= 13
+SystemName= D7S820
+Allele1= 10
+Allele2= 11
+SystemName= D8S1179
+Allele1= 11
+Allele2= 12
+SystemName= D10S1248
+Allele1= 12
+Allele2= 13
+SystemName= D12S391
+Allele1= 19
+Allele2= 19
+SystemName= D13S317
+Allele1= 8
+Allele2= 13
+SystemName= D16S539
+Allele1= 12
+Allele2= 13
+SystemName= D18S51
+Allele1= 12
+Allele2= 14
+SystemName= D19S433
+Allele1= 13.2
+Allele2= 14
+SystemName= D21S11
+Allele1= 27
+Allele2= 30
+SystemName= D22S1045
+Allele1= 15
+Allele2= 16
+SystemName= FGA
+Allele1= 18
+Allele2= 22
+SystemName= TH01
+Allele1= 6
+Allele2= 6
+SystemName= TPOX
+Allele1= 8
+Allele2= 8
+SystemName= vWA
+Allele1= 17
+Allele2= 17
+SystemName= SE33
+Allele1= 19
+Allele2= 27.2
+SystemName= Penta_D
+Allele1= 12
+Allele2= 13
+SystemName= Penta_E
+Allele1= 5
+Allele2= 20
+SystemName= D6S1043
+Allele1= 11
+Allele2= 12
+[[[[[Person 2]]]]]
+Name= 2
+Gender= Male
+[[[[[[DNA data]]]]]]
+nSystems= 24
+SystemName= CSF1PO
+Allele1= 12
+Allele2= 12
+SystemName= D1S1656
+Allele1= 11
+Allele2= 12
+SystemName= D2S441
+Allele1= 10
+Allele2= 11
+SystemName= D2S1338
+Allele1= 23
+Allele2= 24
+SystemName= D3S1358
+Allele1= 16
+Allele2= 17
+SystemName= D5S818
+Allele1= 12
+Allele2= 12
+SystemName= D7S820
+Allele1= 10
+Allele2= 12
+SystemName= D8S1179
+Allele1= 12
+Allele2= 14
+SystemName= D10S1248
+Allele1= 13
+Allele2= 15
+SystemName= D12S391
+Allele1= 18
+Allele2= 23
+SystemName= D13S317
+Allele1= 11
+Allele2= 12
+SystemName= D16S539
+Allele1= 8
+Allele2= 13
+SystemName= D18S51
+Allele1= 12
+Allele2= 12
+SystemName= D19S433
+Allele1= 12
+Allele2= 13
+SystemName= D21S11
+Allele1= 31.2
+Allele2= 33.2
+SystemName= D22S1045
+Allele1= 15
+Allele2= 15
+SystemName= FGA
+Allele1= 21
+Allele2= 24
+SystemName= TH01
+Allele1= 6
+Allele2= 7
+SystemName= TPOX
+Allele1= 8
+Allele2= 11
+SystemName= vWA
+Allele1= 16
+Allele2= 17
+SystemName= SE33
+Allele1= 19
+Allele2= 32.2
+SystemName= Penta_D
+Allele1= 2.2
+Allele2= 9
+SystemName= Penta_E
+Allele1= 8
+Allele2= 13
+SystemName= D6S1043
+Allele1= 17
+Allele2= 19
+[[[[[Person 3]]]]]
+Name= 3
+Gender= Female
+[[[[[[DNA data]]]]]]
+nSystems= 0
+[[[[[Person 4]]]]]
+Name= 4
+Gender= Female
+[[[[[[DNA data]]]]]]
+nSystems= 24
+SystemName= CSF1PO
+Allele1= 11
+Allele2= 12
+SystemName= D1S1656
+Allele1= 11
+Allele2= 13
+SystemName= D2S441
+Allele1= 11
+Allele2= 14
+SystemName= D2S1338
+Allele1= 23
+Allele2= 24
+SystemName= D3S1358
+Allele1= 15
+Allele2= 16
+SystemName= D5S818
+Allele1= 12
+Allele2= 12
+SystemName= D7S820
+Allele1= 11
+Allele2= 12
+SystemName= D8S1179
+Allele1= 12
+Allele2= 14
+SystemName= D10S1248
+Allele1= 12
+Allele2= 15
+SystemName= D12S391
+Allele1= 18
+Allele2= 19
+SystemName= D13S317
+Allele1= 8
+Allele2= 11
+SystemName= D16S539
+Allele1= 8
+Allele2= 12
+SystemName= D18S51
+Allele1= 12
+Allele2= 12
+SystemName= D19S433
+Allele1= 12
+Allele2= 14
+SystemName= D21S11
+Allele1= 27
+Allele2= 33.2
+SystemName= D22S1045
+Allele1= 15
+Allele2= 16
+SystemName= FGA
+Allele1= 22
+Allele2= 24
+SystemName= TH01
+Allele1= 6
+Allele2= 6
+SystemName= TPOX
+Allele1= 8
+Allele2= 11
+SystemName= vWA
+Allele1= 17
+Allele2= 17
+SystemName= SE33
+Allele1= 19
+Allele2= 19
+SystemName= Penta_D
+Allele1= 2.2
+Allele2= 12
+SystemName= Penta_E
+Allele1= 13
+Allele2= 20
+SystemName= D6S1043
+Allele1= 12
+Allele2= 19
+[[[[[Person 5]]]]]
+Name= 5
+Gender= Female
+[[[[[[DNA data]]]]]]
+nSystems= 0
+[[[[[Person 6]]]]]
+Name= 7
+Gender= Male
+[[[[[[DNA data]]]]]]
+nSystems= 0
+[[[[[Person 7]]]]]
+Name= Missing female 1
+Gender= Female
+[[[[[[DNA data]]]]]]
+nSystems= 0
+[[[[Pedigrees]]]]
+nPedigrees= 2
+[[[[[Pedigree 1]]]]]
+Name= Reference pedigree
+nRelations= 8
+Parent= 1
+Child= 4
+Parent= 2
+Child= 4
+Parent= 1
+Child= 5
+Parent= 2
+Child= 5
+Parent= 2
+Child= Missing person
+Parent= 3
+Child= Missing person
+Parent= 2
+Child= 7
+Parent= 3
+Child= 7
+[[[[[Pedigree 2]]]]]
+Name= MP
+nRelations= 8
+Parent= 1
+Child= 4
+Parent= 2
+Child= 4
+Parent= 1
+Child= 5
+Parent= 2
+Child= 5
+Parent= 2
+Child= Missing person
+Parent= 3
+Child= Missing person
+Parent= 2
+Child= 7
+Parent= 3
+Child= 7
+[[[Family 11 ]]]
+Name= FAM11
+[[[[Persons]]]]
+nPersons= 4
+[[[[[Person 1]]]]]
+Name= 1
+Gender= Male
+[[[[[[DNA data]]]]]]
+nSystems= 24
+SystemName= CSF1PO
+Allele1= 10
+Allele2= 11
+SystemName= D1S1656
+Allele1= 12
+Allele2= 18.3
+SystemName= D2S441
+Allele1= 11
+Allele2= 11.3
+SystemName= D2S1338
+Allele1= 17
+Allele2= 19
+SystemName= D3S1358
+Allele1= 15
+Allele2= 18
+SystemName= D5S818
+Allele1= 7
+Allele2= 12
+SystemName= D7S820
+Allele1= 7
+Allele2= 9
+SystemName= D8S1179
+Allele1= 12
+Allele2= 12
+SystemName= D10S1248
+Allele1= 14
+Allele2= 15
+SystemName= D12S391
+Allele1= 15
+Allele2= 17
+SystemName= D13S317
+Allele1= 12
+Allele2= 12
+SystemName= D16S539
+Allele1= 9
+Allele2= 11
+SystemName= D18S51
+Allele1= 15
+Allele2= 18
+SystemName= D19S433
+Allele1= 15.2
+Allele2= 15.2
+SystemName= D21S11
+Allele1= 31
+Allele2= 31
+SystemName= D22S1045
+Allele1= 15
+Allele2= 17
+SystemName= FGA
+Allele1= 21
+Allele2= 22
+SystemName= TH01
+Allele1= 7
+Allele2= 9.3
+SystemName= TPOX
+Allele1= 8
+Allele2= 12
+SystemName= vWA
+Allele1= 17
+Allele2= 18
+SystemName= SE33
+Allele1= 16
+Allele2= 21.2
+SystemName= Penta_D
+Allele1= 9
+Allele2= 10
+SystemName= Penta_E
+Allele1= 14
+Allele2= 17
+SystemName= D6S1043
+Allele1= 16
+Allele2= 24
+[[[[[Person 2]]]]]
+Name= 2
+Gender= Female
+[[[[[[DNA data]]]]]]
+nSystems= 24
+SystemName= CSF1PO
+Allele1= 11
+Allele2= 12
+SystemName= D1S1656
+Allele1= 15
+Allele2= 16
+SystemName= D2S441
+Allele1= 11
+Allele2= 11
+SystemName= D2S1338
+Allele1= 22
+Allele2= 23
+SystemName= D3S1358
+Allele1= 15
+Allele2= 16
+SystemName= D5S818
+Allele1= 11
+Allele2= 12
+SystemName= D7S820
+Allele1= 10
+Allele2= 12
+SystemName= D8S1179
+Allele1= 12
+Allele2= 14
+SystemName= D10S1248
+Allele1= 14
+Allele2= 15
+SystemName= D12S391
+Allele1= 17
+Allele2= 19
+SystemName= D13S317
+Allele1= 11
+Allele2= 12
+SystemName= D16S539
+Allele1= 11
+Allele2= 12
+SystemName= D18S51
+Allele1= 11
+Allele2= 15
+SystemName= D19S433
+Allele1= 14
+Allele2= 15.2
+SystemName= D21S11
+Allele1= 28
+Allele2= 29
+SystemName= D22S1045
+Allele1= 15
+Allele2= 15
+SystemName= FGA
+Allele1= 23
+Allele2= 24
+SystemName= TH01
+Allele1= 6
+Allele2= 7
+SystemName= TPOX
+Allele1= 8
+Allele2= 8
+SystemName= vWA
+Allele1= 14
+Allele2= 19
+SystemName= SE33
+Allele1= 18
+Allele2= 26.2
+SystemName= Penta_D
+Allele1= 13
+Allele2= 14
+SystemName= Penta_E
+Allele1= 11
+Allele2= 13
+SystemName= D6S1043
+Allele1= 11
+Allele2= 12
+[[[[[Person 3]]]]]
+Name= 4
+Gender= Female
+[[[[[[DNA data]]]]]]
+nSystems= 24
+SystemName= CSF1PO
+Allele1= 10
+Allele2= 12
+SystemName= D1S1656
+Allele1= 16
+Allele2= 18.3
+SystemName= D2S441
+Allele1= 11
+Allele2= 11.3
+SystemName= D2S1338
+Allele1= 19
+Allele2= 22
+SystemName= D3S1358
+Allele1= 15
+Allele2= 16
+SystemName= D5S818
+Allele1= 7
+Allele2= 12
+SystemName= D7S820
+Allele1= 7
+Allele2= 10
+SystemName= D8S1179
+Allele1= 12
+Allele2= 14
+SystemName= D10S1248
+Allele1= 14
+Allele2= 14
+SystemName= D12S391
+Allele1= 15
+Allele2= 19
+SystemName= D13S317
+Allele1= 12
+Allele2= 12
+SystemName= D16S539
+Allele1= 9
+Allele2= 11
+SystemName= D18S51
+Allele1= 15
+Allele2= 15
+SystemName= D19S433
+Allele1= 15.2
+Allele2= 15.2
+SystemName= D21S11
+Allele1= 29
+Allele2= 31
+SystemName= D22S1045
+Allele1= 15
+Allele2= 15
+SystemName= FGA
+Allele1= 21
+Allele2= 23
+SystemName= TH01
+Allele1= 7
+Allele2= 7
+SystemName= TPOX
+Allele1= 8
+Allele2= 8
+SystemName= vWA
+Allele1= 14
+Allele2= 17
+SystemName= SE33
+Allele1= 16
+Allele2= 18
+SystemName= Penta_D
+Allele1= 10
+Allele2= 13
+SystemName= Penta_E
+Allele1= 11
+Allele2= 17
+SystemName= D6S1043
+Allele1= 11
+Allele2= 24
+[[[[[Person 4]]]]]
+Name= Missing female 1
+Gender= Female
+[[[[[[DNA data]]]]]]
+nSystems= 0
+[[[[Pedigrees]]]]
+nPedigrees= 2
+[[[[[Pedigree 1]]]]]
+Name= Reference pedigree
+nRelations= 4
+Parent= 1
+Child= Missing person
+Parent= 1
+Child= 4
+Parent= 2
+Child= Missing person
+Parent= 2
+Child= 4
+[[[[[Pedigree 2]]]]]
+Name= MP
+nRelations= 4
+Parent= 1
+Child= Missing person
+Parent= 1
+Child= 4
+Parent= 2
+Child= Missing person
+Parent= 2
+Child= 4
+[[[Family 12 ]]]
+Name= FAM12
+[[[[Persons]]]]
+nPersons= 5
+[[[[[Person 1]]]]]
+Name= 1
+Gender= Male
+[[[[[[DNA data]]]]]]
+nSystems= 0
+[[[[[Person 2]]]]]
+Name= 2
+Gender= Female
+[[[[[[DNA data]]]]]]
+nSystems= 24
+SystemName= CSF1PO
+Allele1= 8
+Allele2= 9
+SystemName= D1S1656
+Allele1= 17.3
+Allele2= 18.3
+SystemName= D2S441
+Allele1= 10
+Allele2= 10
+SystemName= D2S1338
+Allele1= 19
+Allele2= 21
+SystemName= D3S1358
+Allele1= 15
+Allele2= 18
+SystemName= D5S818
+Allele1= 12
+Allele2= 13
+SystemName= D7S820
+Allele1= 11
+Allele2= 13
+SystemName= D8S1179
+Allele1= 11
+Allele2= 13
+SystemName= D10S1248
+Allele1= 13
+Allele2= 14
+SystemName= D12S391
+Allele1= 16
+Allele2= 20
+SystemName= D13S317
+Allele1= 11
+Allele2= 11
+SystemName= D16S539
+Allele1= 9
+Allele2= 12
+SystemName= D18S51
+Allele1= 17
+Allele2= 21
+SystemName= D19S433
+Allele1= 14
+Allele2= 14
+SystemName= D21S11
+Allele1= 28
+Allele2= 28
+SystemName= D22S1045
+Allele1= 15
+Allele2= 16
+SystemName= FGA
+Allele1= 22
+Allele2= 25
+SystemName= TH01
+Allele1= 7
+Allele2= 7
+SystemName= TPOX
+Allele1= 8
+Allele2= 9
+SystemName= vWA
+Allele1= 14
+Allele2= 19
+SystemName= SE33
+Allele1= 17
+Allele2= 18
+SystemName= Penta_D
+Allele1= 2.2
+Allele2= 13
+SystemName= Penta_E
+Allele1= 13
+Allele2= 16
+SystemName= D6S1043
+Allele1= 19
+Allele2= 19
+[[[[[Person 3]]]]]
+Name= 3
+Gender= Male
+[[[[[[DNA data]]]]]]
+nSystems= 24
+SystemName= CSF1PO
+Allele1= 12
+Allele2= 13
+SystemName= D1S1656
+Allele1= 14
+Allele2= 16
+SystemName= D2S441
+Allele1= 10
+Allele2= 12
+SystemName= D2S1338
+Allele1= 19
+Allele2= 19
+SystemName= D3S1358
+Allele1= 15
+Allele2= 16
+SystemName= D5S818
+Allele1= 11
+Allele2= 12
+SystemName= D7S820
+Allele1= 10
+Allele2= 11
+SystemName= D8S1179
+Allele1= 13
+Allele2= 15
+SystemName= D10S1248
+Allele1= 15
+Allele2= 17
+SystemName= D12S391
+Allele1= 20
+Allele2= 23
+SystemName= D13S317
+Allele1= 10
+Allele2= 12
+SystemName= D16S539
+Allele1= 9
+Allele2= 11
+SystemName= D18S51
+Allele1= 18
+Allele2= 19
+SystemName= D19S433
+Allele1= 13
+Allele2= 13.2
+SystemName= D21S11
+Allele1= 31
+Allele2= 32.2
+SystemName= D22S1045
+Allele1= 15
+Allele2= 16
+SystemName= FGA
+Allele1= 23
+Allele2= 26
+SystemName= TH01
+Allele1= 9.3
+Allele2= 9.3
+SystemName= TPOX
+Allele1= 9
+Allele2= 12
+SystemName= vWA
+Allele1= 17
+Allele2= 18
+SystemName= SE33
+Allele1= 18
+Allele2= 26.2
+SystemName= Penta_D
+Allele1= 10
+Allele2= 11
+SystemName= Penta_E
+Allele1= 9
+Allele2= 12
+SystemName= D6S1043
+Allele1= 19
+Allele2= 20
+[[[[[Person 4]]]]]
+Name= 5
+Gender= Female
+[[[[[[DNA data]]]]]]
+nSystems= 24
+SystemName= CSF1PO
+Allele1= 11
+Allele2= 12
+SystemName= D1S1656
+Allele1= 16
+Allele2= 18.3
+SystemName= D2S441
+Allele1= 11
+Allele2= 12
+SystemName= D2S1338
+Allele1= 19
+Allele2= 19
+SystemName= D3S1358
+Allele1= 16
+Allele2= 16
+SystemName= D5S818
+Allele1= 7
+Allele2= 12
+SystemName= D7S820
+Allele1= 11
+Allele2= 13
+SystemName= D8S1179
+Allele1= 13
+Allele2= 15
+SystemName= D10S1248
+Allele1= 15
+Allele2= 15
+SystemName= D12S391
+Allele1= 18
+Allele2= 23
+SystemName= D13S317
+Allele1= 11
+Allele2= 12
+SystemName= D16S539
+Allele1= 11
+Allele2= 11
+SystemName= D18S51
+Allele1= 18
+Allele2= 18
+SystemName= D19S433
+Allele1= 13
+Allele2= 14
+SystemName= D21S11
+Allele1= 31.2
+Allele2= 32.2
+SystemName= D22S1045
+Allele1= 16
+Allele2= 17
+SystemName= FGA
+Allele1= 22
+Allele2= 23
+SystemName= TH01
+Allele1= 6
+Allele2= 9.3
+SystemName= TPOX
+Allele1= 8
+Allele2= 12
+SystemName= vWA
+Allele1= 18
+Allele2= 18
+SystemName= SE33
+Allele1= 17
+Allele2= 26.2
+SystemName= Penta_D
+Allele1= 10
+Allele2= 11
+SystemName= Penta_E
+Allele1= 12
+Allele2= 13
+SystemName= D6S1043
+Allele1= 11
+Allele2= 20
+[[[[[Person 5]]]]]
+Name= Missing female 1
+Gender= Female
+[[[[[[DNA data]]]]]]
+nSystems= 0
+[[[[Pedigrees]]]]
+nPedigrees= 2
+[[[[[Pedigree 1]]]]]
+Name= Reference pedigree
+nRelations= 4
+Parent= 1
+Child= Missing person
+Parent= 2
+Child= Missing person
+Parent= Missing person
+Child= 5
+Parent= 3
+Child= 5
+[[[[[Pedigree 2]]]]]
+Name= MP
+nRelations= 4
+Parent= 1
+Child= Missing person
+Parent= 2
+Child= Missing person
+Parent= Missing person
+Child= 5
+Parent= 3
+Child= 5
+[[[Family 13 ]]]
+Name= FAM13
+[[[[Persons]]]]
+nPersons= 3
+[[[[[Person 1]]]]]
+Name= 1
+Gender= Male
+[[[[[[DNA data]]]]]]
+nSystems= 24
+SystemName= CSF1PO
+Allele1= 7
+Allele2= 12
+SystemName= D1S1656
+Allele1= 14
+Allele2= 15.3
+SystemName= D2S441
+Allele1= 11
+Allele2= 14
+SystemName= D2S1338
+Allele1= 16
+Allele2= 21
+SystemName= D3S1358
+Allele1= 16
+Allele2= 17
+SystemName= D5S818
+Allele1= 8
+Allele2= 12
+SystemName= D7S820
+Allele1= 8
+Allele2= 10
+SystemName= D8S1179
+Allele1= 10
+Allele2= 13
+SystemName= D10S1248
+Allele1= 13
+Allele2= 14
+SystemName= D12S391
+Allele1= 17
+Allele2= 18
+SystemName= D13S317
+Allele1= 12
+Allele2= 12
+SystemName= D16S539
+Allele1= 9
+Allele2= 10
+SystemName= D18S51
+Allele1= 14
+Allele2= 14
+SystemName= D19S433
+Allele1= 14
+Allele2= 15
+SystemName= D21S11
+Allele1= 30.2
+Allele2= 31
+SystemName= D22S1045
+Allele1= 15
+Allele2= 17
+SystemName= FGA
+Allele1= 20
+Allele2= 21
+SystemName= TH01
+Allele1= 9
+Allele2= 9
+SystemName= TPOX
+Allele1= 8
+Allele2= 10
+SystemName= vWA
+Allele1= 16
+Allele2= 17
+SystemName= SE33
+Allele1= 14
+Allele2= 25.2
+SystemName= Penta_D
+Allele1= 13
+Allele2= 13
+SystemName= Penta_E
+Allele1= 8
+Allele2= 15
+SystemName= D6S1043
+Allele1= 12
+Allele2= 17
+[[[[[Person 2]]]]]
+Name= 3
+Gender= Female
+[[[[[[DNA data]]]]]]
+nSystems= 24
+SystemName= CSF1PO
+Allele1= 7
+Allele2= 12
+SystemName= D1S1656
+Allele1= 15.3
+Allele2= 16
+SystemName= D2S441
+Allele1= 11
+Allele2= 14
+SystemName= D2S1338
+Allele1= 16
+Allele2= 25
+SystemName= D3S1358
+Allele1= 15
+Allele2= 16
+SystemName= D5S818
+Allele1= 8
+Allele2= 12
+SystemName= D7S820
+Allele1= 8
+Allele2= 8
+SystemName= D8S1179
+Allele1= 10
+Allele2= 13
+SystemName= D10S1248
+Allele1= 12
+Allele2= 14
+SystemName= D12S391
+Allele1= 15
+Allele2= 17
+SystemName= D13S317
+Allele1= 8
+Allele2= 12
+SystemName= D16S539
+Allele1= 10
+Allele2= 13
+SystemName= D18S51
+Allele1= 14
+Allele2= 14
+SystemName= D19S433
+Allele1= 15
+Allele2= 15.2
+SystemName= D21S11
+Allele1= 31
+Allele2= 32.2
+SystemName= D22S1045
+Allele1= 11
+Allele2= 15
+SystemName= FGA
+Allele1= 21
+Allele2= 21
+SystemName= TH01
+Allele1= 9
+Allele2= 9.3
+SystemName= TPOX
+Allele1= 10
+Allele2= 10
+SystemName= vWA
+Allele1= 16
+Allele2= 16
+SystemName= SE33
+Allele1= 15
+Allele2= 25.2
+SystemName= Penta_D
+Allele1= 2.2
+Allele2= 13
+SystemName= Penta_E
+Allele1= 8
+Allele2= 11
+SystemName= D6S1043
+Allele1= 12
+Allele2= 13
+[[[[[Person 3]]]]]
+Name= Missing female 1
+Gender= Female
+[[[[[[DNA data]]]]]]
+nSystems= 0
+[[[[Pedigrees]]]]
+nPedigrees= 2
+[[[[[Pedigree 1]]]]]
+Name= Reference pedigree
+nRelations= 2
+Parent= Missing person
+Child= 3
+Parent= 1
+Child= 3
+[[[[[Pedigree 2]]]]]
+Name= MP
+nRelations= 2
+Parent= Missing person
+Child= 3
+Parent= 1
+Child= 3
+[[[Family 14 ]]]
+Name= FAM14
+[[[[Persons]]]]
+nPersons= 5
+[[[[[Person 1]]]]]
+Name= 1
+Gender= Male
+[[[[[[DNA data]]]]]]
+nSystems= 0
+[[[[[Person 2]]]]]
+Name= 2
+Gender= Female
+[[[[[[DNA data]]]]]]
+nSystems= 24
+SystemName= CSF1PO
+Allele1= 12
+Allele2= 12
+SystemName= D1S1656
+Allele1= 14
+Allele2= 15
+SystemName= D2S441
+Allele1= 10
+Allele2= 11
+SystemName= D2S1338
+Allele1= 16
+Allele2= 19
+SystemName= D3S1358
+Allele1= 14
+Allele2= 16
+SystemName= D5S818
+Allele1= 11
+Allele2= 11
+SystemName= D7S820
+Allele1= 8
+Allele2= 11
+SystemName= D8S1179
+Allele1= 14
+Allele2= 15
+SystemName= D10S1248
+Allele1= 13
+Allele2= 14
+SystemName= D12S391
+Allele1= 17
+Allele2= 19
+SystemName= D13S317
+Allele1= 11
+Allele2= 13
+SystemName= D16S539
+Allele1= 9
+Allele2= 9
+SystemName= D18S51
+Allele1= 15
+Allele2= 17
+SystemName= D19S433
+Allele1= 14
+Allele2= 14
+SystemName= D21S11
+Allele1= 28
+Allele2= 32.2
+SystemName= D22S1045
+Allele1= 16
+Allele2= 16
+SystemName= FGA
+Allele1= 21
+Allele2= 24
+SystemName= TH01
+Allele1= 7
+Allele2= 7
+SystemName= TPOX
+Allele1= 11
+Allele2= 11
+SystemName= vWA
+Allele1= 15
+Allele2= 16
+SystemName= SE33
+Allele1= 18
+Allele2= 20
+SystemName= Penta_D
+Allele1= 2.2
+Allele2= 12
+SystemName= Penta_E
+Allele1= 7
+Allele2= 10
+SystemName= D6S1043
+Allele1= 12
+Allele2= 16
+[[[[[Person 3]]]]]
+Name= 4
+Gender= Female
+[[[[[[DNA data]]]]]]
+nSystems= 0
+[[[[[Person 4]]]]]
+Name= 5
+Gender= Male
+[[[[[[DNA data]]]]]]
+nSystems= 0
+[[[[[Person 5]]]]]
+Name= Missing female 1
+Gender= Female
+[[[[[[DNA data]]]]]]
+nSystems= 0
+[[[[Pedigrees]]]]
+nPedigrees= 2
+[[[[[Pedigree 1]]]]]
+Name= Reference pedigree
+nRelations= 4
+Parent= 1
+Child= Missing person
+Parent= 2
+Child= Missing person
+Parent= Missing person
+Child= 5
+Parent= 4
+Child= 5
+[[[[[Pedigree 2]]]]]
+Name= MP
+nRelations= 4
+Parent= 1
+Child= Missing person
+Parent= 2
+Child= Missing person
+Parent= Missing person
+Child= 5
+Parent= 4
+Child= 5
+[[[Family 15 ]]]
+Name= FAM15
+[[[[Persons]]]]
+nPersons= 3
+[[[[[Person 1]]]]]
+Name= 1
+Gender= Male
+[[[[[[DNA data]]]]]]
+nSystems= 24
+SystemName= CSF1PO
+Allele1= 9
+Allele2= 12
+SystemName= D1S1656
+Allele1= 14
+Allele2= 15
+SystemName= D2S441
+Allele1= 14
+Allele2= 15
+SystemName= D2S1338
+Allele1= 19
+Allele2= 25
+SystemName= D3S1358
+Allele1= 15
+Allele2= 16
+SystemName= D5S818
+Allele1= 11
+Allele2= 13
+SystemName= D7S820
+Allele1= 8
+Allele2= 12
+SystemName= D8S1179
+Allele1= 12
+Allele2= 13
+SystemName= D10S1248
+Allele1= 13
+Allele2= 15
+SystemName= D12S391
+Allele1= 20
+Allele2= 22
+SystemName= D13S317
+Allele1= 8
+Allele2= 11
+SystemName= D16S539
+Allele1= 11
+Allele2= 13
+SystemName= D18S51
+Allele1= 17
+Allele2= 20
+SystemName= D19S433
+Allele1= 13.2
+Allele2= 15.2
+SystemName= D21S11
+Allele1= 28
+Allele2= 31
+SystemName= D22S1045
+Allele1= 16
+Allele2= 17
+SystemName= FGA
+Allele1= 25
+Allele2= 25
+SystemName= TH01
+Allele1= 8
+Allele2= 9
+SystemName= TPOX
+Allele1= 6
+Allele2= 8
+SystemName= vWA
+Allele1= 16
+Allele2= 18
+SystemName= SE33
+Allele1= 19
+Allele2= 20
+SystemName= Penta_D
+Allele1= 8
+Allele2= 10
+SystemName= Penta_E
+Allele1= 13
+Allele2= 13
+SystemName= D6S1043
+Allele1= 17
+Allele2= 18
+[[[[[Person 2]]]]]
+Name= 3
+Gender= Male
+[[[[[[DNA data]]]]]]
+nSystems= 24
+SystemName= CSF1PO
+Allele1= 9
+Allele2= 11
+SystemName= D1S1656
+Allele1= 14
+Allele2= 15
+SystemName= D2S441
+Allele1= 11
+Allele2= 14
+SystemName= D2S1338
+Allele1= 22
+Allele2= 25
+SystemName= D3S1358
+Allele1= 16
+Allele2= 16
+SystemName= D5S818
+Allele1= 11
+Allele2= 12
+SystemName= D7S820
+Allele1= 8
+Allele2= 8
+SystemName= D8S1179
+Allele1= 12
+Allele2= 13
+SystemName= D10S1248
+Allele1= 12
+Allele2= 13
+SystemName= D12S391
+Allele1= 18
+Allele2= 22
+SystemName= D13S317
+Allele1= 11
+Allele2= 11
+SystemName= D16S539
+Allele1= 11
+Allele2= 13
+SystemName= D18S51
+Allele1= 17
+Allele2= 17
+SystemName= D19S433
+Allele1= 12
+Allele2= 15.2
+SystemName= D21S11
+Allele1= 28
+Allele2= 31
+SystemName= D22S1045
+Allele1= 15
+Allele2= 17
+SystemName= FGA
+Allele1= 24
+Allele2= 25
+SystemName= TH01
+Allele1= 9
+Allele2= 9.3
+SystemName= TPOX
+Allele1= 6
+Allele2= 11
+SystemName= vWA
+Allele1= 16
+Allele2= 16
+SystemName= SE33
+Allele1= 18
+Allele2= 19
+SystemName= Penta_D
+Allele1= 10
+Allele2= 12
+SystemName= Penta_E
+Allele1= 13
+Allele2= 13
+SystemName= D6S1043
+Allele1= 12
+Allele2= 17
+[[[[[Person 3]]]]]
+Name= Missing female 1
+Gender= Female
+[[[[[[DNA data]]]]]]
+nSystems= 0
+[[[[Pedigrees]]]]
+nPedigrees= 2
+[[[[[Pedigree 1]]]]]
+Name= Reference pedigree
+nRelations= 2
+Parent= 1
+Child= 3
+Parent= Missing person
+Child= 3
+[[[[[Pedigree 2]]]]]
+Name= MP
+nRelations= 2
+Parent= 1
+Child= 3
+Parent= Missing person
+Child= 3
+[Prior]
+UseList= Yes
+Size= 0
+[Advanced]
+[[Direct/Identity]]
+Dropin= 0
+Dropout= 0
+Error= 0
+[[Other]]
+NumberOfDecimals= 5
+[[DVI]]
+QuickSearch= Enabled
+AllowedMismatches= 3
+[[Simulation]]
+SaveGenotypes= Enabled
+SaveComplete= Enabled
+ForceMAF= Disabled
