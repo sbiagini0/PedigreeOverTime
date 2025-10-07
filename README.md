@@ -1,9 +1,14 @@
 
 # 🧬 PedigreeOverTime
 
+--------------------------------------------------------------------------------
+
+## 🔍 Introduction
+
 **PedigreeOverTime** is an R pipeline—purpose-built for **MPI (Missing Person Identification)** and **DVI (Disaster Victim Identification)** workflows—that reads a _.fam_ file and visualizes, in chronological order, how adding specific members typed by **STR** or **SNP** markers to each pedigree improves statistical power in kinship analysis.  
 Leveraging parallel computing, the pipeline runs large EP/IP simulations efficiently. Using a companion spreadsheet of genotyping dates, it produces annotated pedigree diagrams and simulation-based **Exclusion Power** (EP) and **Inclusion Power** (IP) metrics, clearly showing when—and by how much—each new sample boosts identification confidence.
 
+--------------------------------------------------------------------------------
 
 ## 🚀 Key Features
 
@@ -27,6 +32,7 @@ Leveraging parallel computing, the pipeline runs large EP/IP simulations efficie
   * Saves every intermediate pedigree, EP object, and IP object as RData files.  
   * Organises all figures in a tidy `output/` directory tree for easy review and sharing.
  
+--------------------------------------------------------------------------------
 
 ## 📋 Requirements
 
@@ -48,6 +54,8 @@ This timeline drives the step-wise incorporation of samples into each pedigree f
 
 - **R version 4.2.0 or higher**.
 
+--------------------------------------------------------------------------------
+
 ## 🛠 Installation & Setup
 
 1. **Clone the repository**
@@ -64,6 +72,8 @@ This timeline drives the step-wise incorporation of samples into each pedigree f
    ```bash
    install.packages(c("pedtools", "forrel", "furrr", "purrr", "tidyverse", "dplyr", "magick", "grid", "gridExtra", "ggplot2", "readxl", "here"))
    ```
+
+--------------------------------------------------------------------------------
   
 ## ⚙️ Configuring and Running the Simulation
 
@@ -107,6 +117,8 @@ This timeline drives the step-wise incorporation of samples into each pedigree f
     - **RData peds/**: Saved RData objects of all intermediate pedigree versions.  
     - **Final Images** (`output/<Pedigree>.jpeg`): Combined side-by-side images of the pedigree plot and simulation results.
 
+--------------------------------------------------------------------------------
+
 ## 🖼️ A toy MPI example
 
 The `toy_MPI.fam` file included in this repository is a simplified
@@ -115,11 +127,22 @@ This file includes a **Population Frequency Table** from South America with 24 S
 
 ![Example output of pedigree + simulation](docs/example_output.jpeg)
 
+--------------------------------------------------------------------------------
+
+## 📚 Citations
+
+### mispitools package
+- **Marsico et al.** (2023). *Forensic Science International: Genetics*. https://doi.org/10.1016/j.fsigen.2023.102891  
+- **Marsico et al.** (2021). *Forensic Science International: Genetics*. https://doi.org/10.1016/j.fsigen.2021.102519  
+- **Marsico** (2024). *bioRxiv*. https://doi.org/10.1101/2024.08.16.608307
+
+### pedsuite package (pedtools, forrel)
+- **Vigeland, M. D.** (2020). *Pedigree Analysis in R*. Academic Press. https://doi.org/10.1016/C2020-0-01956-0
+
+--------------------------------------------------------------------------------
+
 ## 📝 License
 
 MIT License — see [LICENSE](LICENSE) for details.
 
----
-
-**Author:** [sbiagini0](https://github.com/sbiagini0)  
-DVI/MPI & forensic genetics pipelines.
+--------------------------------------------------------------------------------
