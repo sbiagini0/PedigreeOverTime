@@ -22,25 +22,7 @@ load_packages(packages)
 
 #import_helpers
 ```{r import_helpers, include=FALSE}
-# Create the output directory tree and return a path_info list
-source(here("R", "setup_directories.R"))
-
-# Auto-detect the first .xlsx in data/, clean it, and return the timeline df
-source(here("R", "process_df.R"))
-
-# Auto-detect and read a multi-family .fam file and return a named list of pedigrees
-source(here("R", "read_famfile.R"))
-
-# Drop NULL pedigrees, extract _comp1, and assign famid()
-source(here("R", "process_pedigree.R"))
-
-# Compare current vs. previous member counts and decide what to run
-source(here("R", "pedigrees_to_run.R"))
-
-# Plotting utilities for pedigree diagrams and simulation panels
-source(here("R", "pedigree_plot_utils.R"))
-
-# Simulate, plot, and save outputs over time
+source(here("R", "helpers.R"))
 source(here("R", "simulatePedigreeOverTime.R"))
 
 ```
