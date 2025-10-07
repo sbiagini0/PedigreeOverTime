@@ -131,11 +131,6 @@ This file includes a **Population Frequency Table** from South America with 24 S
 
 ## 📚 Citations
 
-### mispitools package
-- **Marsico et al.** (2023). *Forensic Science International: Genetics*. https://doi.org/10.1016/j.fsigen.2023.102891  
-- **Marsico et al.** (2021). *Forensic Science International: Genetics*. https://doi.org/10.1016/j.fsigen.2021.102519  
-- **Marsico** (2024). *bioRxiv*. https://doi.org/10.1101/2024.08.16.608307
-
 ### pedsuite package (pedtools, forrel)
 - **Vigeland, M. D.** (2020). *Pedigree Analysis in R*. Academic Press. https://doi.org/10.1016/C2020-0-01956-0
 
